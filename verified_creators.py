@@ -29,7 +29,7 @@ def is_verified_creator(username):
     
     print("Making API call ...")
 
-    access_token = "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"
+    access_token = ""
     url = 'https://api.github.com/graphql'
     headers = {'Authorization': 'Bearer ' + access_token}
     query = """
