@@ -11,3 +11,4 @@ goreleaser
 google-github-actions
 buildpulse
 golangci
+tj-actions
