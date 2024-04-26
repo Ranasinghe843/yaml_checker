@@ -23,18 +23,24 @@ def extract_actions_and_runs_on(workflow_file):
                     if isinstance(runs_on_value, str):
                         matrix_var_match = re.search(r'\${{\s*matrix\.([\w-]+)\s*}}', runs_on_value)
                         if matrix_var_match:
-                            matrix_var = matrix_var_match.group(1)
-                            matrix_value = job.get('strategy', {}).get('matrix', {}).get(matrix_var, '')
-                            runs_on.extend(matrix_value)
+                            try:
+                                matrix_var = matrix_var_match.group(1)
+                                matrix_value = job.get('strategy', {}).get('matrix', {}).get(matrix_var, '')
+                                runs_on.extend(matrix_value)
+                            except:
+                                runs_on.append(runs_on_value)
                         else:
                             runs_on.append(runs_on_value)
                     elif isinstance(runs_on_value, list):
                         for run in runs_on_value:
                             matrix_var_match = re.search(r'\${{\s*matrix\.([\w-]+)\s*}}', run)
                             if matrix_var_match:
-                                matrix_var = matrix_var_match.group(1)
-                                matrix_value = job.get('strategy', {}).get('matrix', {}).get(matrix_var, '')
-                                runs_on.extend(matrix_value)
+                                try:
+                                    matrix_var = matrix_var_match.group(1)
+                                    matrix_value = job.get('strategy', {}).get('matrix', {}).get(matrix_var, '')
+                                    runs_on.extend(matrix_value)
+                                except:
+                                    runs_on.append(runs_on_value)
                             else:
                                 runs_on.append(run)
     return actions, runs_on
