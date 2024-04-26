@@ -2,6 +2,7 @@ import os
 import yaml
 import re
 import json
+import sys
 from commit_hash import is_commit_hash
 from github_runners import uses_github_runner
 from verified_creators import is_verified_creator
@@ -91,8 +92,8 @@ def per_repo(dir):
     return repo_data
 
 def main():
-    contents = os.listdir('../repos')
-    directories = [entry for entry in contents if os.path.isdir(os.path.join('../repos', entry))]
+    contents = os.listdir('../'+ sys.argv[1])
+    directories = [entry for entry in contents if os.path.isdir(os.path.join('../'+ sys.argv[1], entry))]
     try:
         with open('data.json', 'r') as f:
             json_data = json.load(f)
