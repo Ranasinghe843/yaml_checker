@@ -6,7 +6,7 @@ This Python script analyzes GitHub workflow files to gather metrics such as the 
 
 1. **Clone the Repository:** Clone this repository to your local machine.
 
-2. **Install Dependencies:** Make sure you have Python installed on your system. Install the required dependencies using the following command:
+2. **Install Dependencies:** Install the required dependencies using the following command:
 ```
 pip install -r requirements.txt
 ```
