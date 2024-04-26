@@ -29,7 +29,9 @@ def is_verified_creator(username):
     
     print("Making API call ...")
 
-    access_token = ""
+    with open('../../../../yaml_checker/access_token.txt', 'r') as f:
+        access_token = f.read().strip()
+    
     url = 'https://api.github.com/graphql'
     headers = {'Authorization': 'Bearer ' + access_token}
     query = """

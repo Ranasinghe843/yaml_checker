@@ -1,6 +1,7 @@
 import os
 import yaml
 import re
+import json
 from commit_hash import is_commit_hash
 from github_runners import uses_github_runner
 from verified_creators import is_verified_creator
@@ -46,6 +47,7 @@ def per_repo(dir):
     unverified_creators = []
     verified_creators = []
     unverified_creator_actions = 0
+    repo_data = {}
 
     for workflow_file in workflow_files:
         actions, runs_on = extract_actions_and_runs_on(workflow_file)
@@ -71,22 +73,42 @@ def per_repo(dir):
     
         if not uses_github_runner(runs_on):
             github_runner_not_used += 1
+    
+    repo_data['total_actions'] = total_actions
+    repo_data['actions_with_commit_hash'] = actions_with_commit_hash
+    repo_data['self_hosted_runners'] = github_runner_not_used
+    repo_data['unverified_creator_actions'] = unverified_creator_actions
+    repo_data['verified_creators'] = verified_creators
+    repo_data['unverified_creators'] = unverified_creators
             
-    print("Total actions:", total_actions)
-    print("Actions with commit hash pinning:", actions_with_commit_hash)
-    print("Self-hosted runners used:", github_runner_not_used)
-    print("Actions used from unverified creators:", unverified_creator_actions)
-    print("Verified creators:", verified_creators)
-    print("Unverified creators:", unverified_creators)
+    # print("Total actions:", total_actions)
+    # print("Actions with commit hash pinning:", actions_with_commit_hash)
+    # print("Self-hosted runners used:", github_runner_not_used)
+    # print("Actions used from unverified creators:", unverified_creator_actions)
+    # print("Verified creators:", verified_creators)
+    # print("Unverified creators:", unverified_creators)
+
+    return repo_data
 
 def main():
     contents = os.listdir('../repos')
     directories = [entry for entry in contents if os.path.isdir(os.path.join('../repos', entry))]
+    try:
+        with open('data.json', 'r') as f:
+            json_data = json.load(f)
+    except:
+        json_data = {}
+    
     for direct in directories:
-        print(direct + ':')
-        per_repo('../repos/' + direct + '/.github/workflows')
-        print("")
-        os.chdir(os.path.dirname(os.path.abspath(__file__)))
+        if direct in json_data:
+            continue
+        else:
+            repo_data = per_repo('../repos/' + direct + '/.github/workflows')
+            os.chdir(os.path.dirname(os.path.abspath(__file__)))
+            json_data[direct] = repo_data
+            with open('data.json', 'w') as f:
+                json.dump(json_data, f, indent=4)
+
 
 if __name__ == "__main__":
     main()

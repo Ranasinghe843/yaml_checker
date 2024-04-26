@@ -1,0 +1,63 @@
+{
+    "guava": {
+        "total_actions": 13,
+        "actions_with_commit_hash": 13,
+        "self_hosted_runners": 0,
+        "unverified_creator_actions": 1,
+        "verified_creators": [
+            "actions",
+            "gradle",
+            "ossf",
+            "github"
+        ],
+        "unverified_creators": [
+            "styfle"
+        ]
+    },
+    "rich": {
+        "total_actions": 14,
+        "actions_with_commit_hash": 2,
+        "self_hosted_runners": 0,
+        "unverified_creator_actions": 4,
+        "verified_creators": [
+            "actions",
+            "codecov",
+            "github"
+        ],
+        "unverified_creators": [
+            "snok",
+            "peter-evans",
+            "juliangruber"
+        ]
+    },
+    "esbuild": {
+        "total_actions": 22,
+        "actions_with_commit_hash": 0,
+        "self_hosted_runners": 0,
+        "unverified_creator_actions": 0,
+        "verified_creators": [
+            "actions",
+            "denoland"
+        ],
+        "unverified_creators": []
+    },
+    "axios": {
+        "total_actions": 28,
+        "actions_with_commit_hash": 0,
+        "self_hosted_runners": 0,
+        "unverified_creator_actions": 8,
+        "verified_creators": [
+            "actions",
+            "github",
+            "tj-actions"
+        ],
+        "unverified_creators": [
+            "martinbeentjes",
+            "ffurrer2",
+            "rickstaa",
+            "ncipollo",
+            "mathiasvr",
+            "peter-evans"
+        ]
+    }
+}

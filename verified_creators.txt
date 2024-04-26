@@ -1,8 +1,3 @@
-actions
-codecov
-rtCamp
-step-security
-ossf
 github
 nodejs
 docker
@@ -12,3 +7,8 @@ google-github-actions
 buildpulse
 golangci
 tj-actions
+actions
+gradle
+ossf
+codecov
+denoland
