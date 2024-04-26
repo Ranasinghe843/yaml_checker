@@ -93,13 +93,17 @@ def per_repo(dir):
 
 def main():
     contents = os.listdir('../'+ sys.argv[1])
-    directories = [entry for entry in contents if os.path.isdir(os.path.join('../'+ sys.argv[1], entry))]
+    # directories = [entry for entry in contents if os.path.isdir(os.path.join('../'+ sys.argv[1], entry))]
+    directories = []
+    for entry in contents:
+        workflows_path = os.path.join('../' + sys.argv[1] + '/' + entry, '.github/workflows')
+        if os.path.isdir(workflows_path):
+            directories.append(entry)
     try:
         with open('data.json', 'r') as f:
             json_data = json.load(f)
     except:
         json_data = {}
-    
     for direct in directories:
         if direct in json_data:
             continue
