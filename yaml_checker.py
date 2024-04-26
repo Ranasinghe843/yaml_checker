@@ -104,7 +104,7 @@ def main():
         if direct in json_data:
             continue
         else:
-            repo_data = per_repo('../repos/' + direct + '/.github/workflows')
+            repo_data = per_repo('../' + sys.argv[1] + '/' + direct + '/.github/workflows')
             os.chdir(os.path.dirname(os.path.abspath(__file__)))
             json_data[direct] = repo_data
             with open('data.json', 'w') as f:
