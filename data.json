@@ -59,5 +59,6629 @@
             "mathiasvr",
             "peter-evans"
         ]
+    },
+    "ace": {
+        "total_actions": 9,
+        "actions_with_commit_hash": 0,
+        "self_hosted_runners": 0,
+        "unverified_creator_actions": 3,
+        "verified_creators": [
+            "aws-actions",
+            "actions",
+            "codecov"
+        ],
+        "unverified_creators": [
+            "peter-evans",
+            "kaizencc"
+        ]
+    },
+    "acme.sh": {
+        "total_actions": 47,
+        "actions_with_commit_hash": 0,
+        "self_hosted_runners": 0,
+        "unverified_creator_actions": 0,
+        "verified_creators": [
+            "actions",
+            "vmactions",
+            "docker"
+        ],
+        "unverified_creators": []
+    },
+    "AdGuardHome": {
+        "total_actions": 21,
+        "actions_with_commit_hash": 0,
+        "self_hosted_runners": 1,
+        "unverified_creator_actions": 5,
+        "verified_creators": [
+            "actions",
+            "codecov",
+            "docker"
+        ],
+        "unverified_creators": [
+            "technote-space",
+            "8398a7",
+            "wow-actions"
+        ]
+    },
+    "AdminLTE": {
+        "total_actions": 17,
+        "actions_with_commit_hash": 0,
+        "self_hosted_runners": 0,
+        "unverified_creator_actions": 2,
+        "verified_creators": [
+            "actions",
+            "github",
+            "endaft"
+        ],
+        "unverified_creators": [
+            "montudor",
+            "softprops"
+        ]
+    },
+    "AFNetworking": {
+        "total_actions": 6,
+        "actions_with_commit_hash": 0,
+        "self_hosted_runners": 1,
+        "unverified_creator_actions": 0,
+        "verified_creators": [
+            "actions"
+        ],
+        "unverified_creators": []
+    },
+    "airflow": {
+        "total_actions": 114,
+        "actions_with_commit_hash": 4,
+        "self_hosted_runners": 16,
+        "unverified_creator_actions": 38,
+        "verified_creators": [
+            "actions",
+            "github",
+            "aws-actions"
+        ],
+        "unverified_creators": [
+            "."
+        ]
+    },
+    "alacritty": {
+        "total_actions": 5,
+        "actions_with_commit_hash": 0,
+        "self_hosted_runners": 0,
+        "unverified_creator_actions": 0,
+        "verified_creators": [
+            "actions"
+        ],
+        "unverified_creators": []
+    },
+    "Alamofire": {
+        "total_actions": 13,
+        "actions_with_commit_hash": 0,
+        "self_hosted_runners": 1,
+        "unverified_creator_actions": 1,
+        "verified_creators": [
+            "actions",
+            "github"
+        ],
+        "unverified_creators": [
+            "compnerd"
+        ]
+    },
+    "alpine": {
+        "total_actions": 2,
+        "actions_with_commit_hash": 0,
+        "self_hosted_runners": 0,
+        "unverified_creator_actions": 0,
+        "verified_creators": [
+            "actions"
+        ],
+        "unverified_creators": []
+    },
+    "angular": {
+        "total_actions": 59,
+        "actions_with_commit_hash": 58,
+        "self_hosted_runners": 1,
+        "unverified_creator_actions": 5,
+        "verified_creators": [
+            "angular",
+            "actions",
+            "TheModdingInquisition",
+            "ossf",
+            "github"
+        ],
+        "unverified_creators": [
+            "peter-evans",
+            "alessbell",
+            ".",
+            "FirebaseExtended"
+        ]
+    },
+    "angular-cli": {
+        "total_actions": 34,
+        "actions_with_commit_hash": 34,
+        "self_hosted_runners": 0,
+        "unverified_creator_actions": 1,
+        "verified_creators": [
+            "actions",
+            "angular",
+            "ossf",
+            "github"
+        ],
+        "unverified_creators": [
+            "dorny"
+        ]
+    },
+    "animate.css": {
+        "total_actions": 4,
+        "actions_with_commit_hash": 0,
+        "self_hosted_runners": 0,
+        "unverified_creator_actions": 0,
+        "verified_creators": [
+            "actions",
+            "github"
+        ],
+        "unverified_creators": []
+    },
+    "ant-design": {
+        "total_actions": 138,
+        "actions_with_commit_hash": 0,
+        "self_hosted_runners": 0,
+        "unverified_creator_actions": 46,
+        "verified_creators": [
+            "actions",
+            "nearform-actions",
+            "wearerequired",
+            "ant-design",
+            "codecov"
+        ],
+        "unverified_creators": [
+            "visiky",
+            "actions-cool",
+            "dawidd6",
+            "cirrus-actions",
+            "peaceiris",
+            "peter-evans"
+        ]
+    },
+    "ant-design-pro": {
+        "total_actions": 26,
+        "actions_with_commit_hash": 0,
+        "self_hosted_runners": 2,
+        "unverified_creator_actions": 13,
+        "verified_creators": [
+            "actions",
+            "github"
+        ],
+        "unverified_creators": [
+            "actions-cool",
+            "dawidd6"
+        ]
+    },
+    "apollo": {
+        "total_actions": 21,
+        "actions_with_commit_hash": 1,
+        "self_hosted_runners": 0,
+        "unverified_creator_actions": 1,
+        "verified_creators": [
+            "actions",
+            "codecov",
+            "cla-assistant",
+            "github",
+            "docker",
+            "apache"
+        ],
+        "unverified_creators": [
+            "wagoid"
+        ]
+    },
+    "appsmith": {
+        "total_actions": 217,
+        "actions_with_commit_hash": 0,
+        "self_hosted_runners": 6,
+        "unverified_creator_actions": 39,
+        "verified_creators": [
+            "actions",
+            "chromaui",
+            "depot",
+            "docker",
+            "rtCamp",
+            "tj-actions",
+            "azure",
+            "release-drafter"
+        ],
+        "unverified_creators": [
+            "peter-evans",
+            "dawidd6",
+            "mxschmitt",
+            "browser-actions",
+            "cypress-io",
+            "martijnhols",
+            "umani",
+            "appsmithorg",
+            "bubkoo",
+            "Videndum",
+            "tibdex",
+            "nefrob",
+            "dorny"
+        ]
+    },
+    "appwrite": {
+        "total_actions": 28,
+        "actions_with_commit_hash": 0,
+        "self_hosted_runners": 0,
+        "unverified_creator_actions": 0,
+        "verified_creators": [
+            "actions",
+            "github",
+            "docker"
+        ],
+        "unverified_creators": []
+    },
+    "arthas": {
+        "total_actions": 48,
+        "actions_with_commit_hash": 0,
+        "self_hosted_runners": 0,
+        "unverified_creator_actions": 9,
+        "verified_creators": [
+            "actions",
+            "github"
+        ],
+        "unverified_creators": [
+            "creyD",
+            "uraimo",
+            "jirutka",
+            "ad-m",
+            "softprops"
+        ]
+    },
+    "aseprite": {
+        "total_actions": 9,
+        "actions_with_commit_hash": 0,
+        "self_hosted_runners": 0,
+        "unverified_creator_actions": 7,
+        "verified_creators": [
+            "actions"
+        ],
+        "unverified_creators": [
+            "hendrikmuhs",
+            "turtlesec-no",
+            "ilammy",
+            "ZedThree",
+            "superbrothers"
+        ]
+    },
+    "aspnetcore": {
+        "total_actions": 12,
+        "actions_with_commit_hash": 1,
+        "self_hosted_runners": 0,
+        "unverified_creator_actions": 2,
+        "verified_creators": [
+            "actions",
+            "dotnet"
+        ],
+        "unverified_creators": [
+            ".",
+            "martincostello"
+        ]
+    },
+    "async": {
+        "total_actions": 6,
+        "actions_with_commit_hash": 0,
+        "self_hosted_runners": 0,
+        "unverified_creator_actions": 1,
+        "verified_creators": [
+            "actions",
+            "coverallsapp"
+        ],
+        "unverified_creators": [
+            "styfle"
+        ]
+    },
+    "autoprefixer": {
+        "total_actions": 11,
+        "actions_with_commit_hash": 0,
+        "self_hosted_runners": 0,
+        "unverified_creator_actions": 1,
+        "verified_creators": [
+            "actions",
+            "pnpm"
+        ],
+        "unverified_creators": [
+            "softprops"
+        ]
+    },
+    "awesome": {
+        "total_actions": 1,
+        "actions_with_commit_hash": 0,
+        "self_hosted_runners": 0,
+        "unverified_creator_actions": 0,
+        "verified_creators": [
+            "actions"
+        ],
+        "unverified_creators": []
+    },
+    "awesome-docker": {
+        "total_actions": 3,
+        "actions_with_commit_hash": 3,
+        "self_hosted_runners": 0,
+        "unverified_creator_actions": 0,
+        "verified_creators": [
+            "actions"
+        ],
+        "unverified_creators": []
+    },
+    "awesome-go": {
+        "total_actions": 6,
+        "actions_with_commit_hash": 0,
+        "self_hosted_runners": 0,
+        "unverified_creator_actions": 3,
+        "verified_creators": [
+            "actions"
+        ],
+        "unverified_creators": [
+            "balevine",
+            "peter-evans",
+            "jsmrcaga"
+        ]
+    },
+    "awesome-vue": {
+        "total_actions": 2,
+        "actions_with_commit_hash": 0,
+        "self_hosted_runners": 0,
+        "unverified_creator_actions": 1,
+        "verified_creators": [
+            "actions"
+        ],
+        "unverified_creators": [
+            "Scrum"
+        ]
+    },
+    "babel": {
+        "total_actions": 119,
+        "actions_with_commit_hash": 0,
+        "self_hosted_runners": 0,
+        "unverified_creator_actions": 2,
+        "verified_creators": [
+            "actions",
+            "codecov",
+            "babel"
+        ],
+        "unverified_creators": [
+            "dessant",
+            "imjohnbo"
+        ]
+    },
+    "bat": {
+        "total_actions": 22,
+        "actions_with_commit_hash": 0,
+        "self_hosted_runners": 1,
+        "unverified_creator_actions": 9,
+        "verified_creators": [
+            "actions"
+        ],
+        "unverified_creators": [
+            "dtolnay",
+            "taiki-e",
+            "softprops",
+            "vedantmgoyal2009"
+        ]
+    },
+    "beego": {
+        "total_actions": 6,
+        "actions_with_commit_hash": 0,
+        "self_hosted_runners": 0,
+        "unverified_creator_actions": 2,
+        "verified_creators": [
+            "actions"
+        ],
+        "unverified_creators": [
+            "luanpotter"
+        ]
+    },
+    "bevy": {
+        "total_actions": 126,
+        "actions_with_commit_hash": 0,
+        "self_hosted_runners": 0,
+        "unverified_creator_actions": 49,
+        "verified_creators": [
+            "actions"
+        ],
+        "unverified_creators": [
+            "dtolnay",
+            ".",
+            "docker:",
+            "crate-ci",
+            "peter-evans"
+        ]
+    },
+    "bitcoin": {
+        "total_actions": 13,
+        "actions_with_commit_hash": 0,
+        "self_hosted_runners": 0,
+        "unverified_creator_actions": 1,
+        "verified_creators": [
+            "actions"
+        ],
+        "unverified_creators": [
+            "ilammy"
+        ]
+    },
+    "black": {
+        "total_actions": 47,
+        "actions_with_commit_hash": 4,
+        "self_hosted_runners": 2,
+        "unverified_creator_actions": 4,
+        "verified_creators": [
+            "actions",
+            "docker",
+            "pre-commit",
+            "pypa"
+        ],
+        "unverified_creators": [
+            "peter-evans",
+            "AndreMiras"
+        ]
+    },
+    "bootstrap": {
+        "total_actions": 27,
+        "actions_with_commit_hash": 0,
+        "self_hosted_runners": 0,
+        "unverified_creator_actions": 3,
+        "verified_creators": [
+            "actions",
+            "calibreapp",
+            "github",
+            "streetsidesoftware",
+            "coverallsapp",
+            "release-drafter"
+        ],
+        "unverified_creators": [
+            "JustinBeckwith",
+            "actions-cool"
+        ]
+    },
+    "brew": {
+        "total_actions": 58,
+        "actions_with_commit_hash": 2,
+        "self_hosted_runners": 0,
+        "unverified_creator_actions": 1,
+        "verified_creators": [
+            "Homebrew",
+            "actions",
+            "github",
+            "ruby",
+            "codecov"
+        ],
+        "unverified_creators": [
+            "dessant"
+        ]
+    },
+    "bulma": {
+        "total_actions": 2,
+        "actions_with_commit_hash": 0,
+        "self_hosted_runners": 0,
+        "unverified_creator_actions": 0,
+        "verified_creators": [
+            "actions",
+            "ruby"
+        ],
+        "unverified_creators": []
+    },
+    "caddy": {
+        "total_actions": 19,
+        "actions_with_commit_hash": 0,
+        "self_hosted_runners": 0,
+        "unverified_creator_actions": 3,
+        "verified_creators": [
+            "actions",
+            "goreleaser",
+            "golangci",
+            "sigstore",
+            "anchore"
+        ],
+        "unverified_creators": [
+            "golang",
+            "peter-evans"
+        ]
+    },
+    "celery": {
+        "total_actions": 36,
+        "actions_with_commit_hash": 0,
+        "self_hosted_runners": 0,
+        "unverified_creator_actions": 0,
+        "verified_creators": [
+            "actions",
+            "github",
+            "pre-commit",
+            "codecov"
+        ],
+        "unverified_creators": []
+    },
+    "certbot": {
+        "total_actions": 3,
+        "actions_with_commit_hash": 0,
+        "self_hosted_runners": 0,
+        "unverified_creator_actions": 0,
+        "verified_creators": [
+            "mattermost",
+            "actions"
+        ],
+        "unverified_creators": []
+    },
+    "chakra-ui": {
+        "total_actions": 13,
+        "actions_with_commit_hash": 0,
+        "self_hosted_runners": 0,
+        "unverified_creator_actions": 7,
+        "verified_creators": [
+            "actions"
+        ],
+        "unverified_creators": [
+            ".",
+            "changesets"
+        ]
+    },
+    "chalk": {
+        "total_actions": 3,
+        "actions_with_commit_hash": 0,
+        "self_hosted_runners": 0,
+        "unverified_creator_actions": 0,
+        "verified_creators": [
+            "actions",
+            "codecov"
+        ],
+        "unverified_creators": []
+    },
+    "Chart.js": {
+        "total_actions": 21,
+        "actions_with_commit_hash": 0,
+        "self_hosted_runners": 0,
+        "unverified_creator_actions": 1,
+        "verified_creators": [
+            "actions",
+            "pnpm",
+            "coverallsapp",
+            "preactjs",
+            "release-drafter"
+        ],
+        "unverified_creators": [
+            "dorny"
+        ]
+    },
+    "cheerio": {
+        "total_actions": 19,
+        "actions_with_commit_hash": 0,
+        "self_hosted_runners": 0,
+        "unverified_creator_actions": 1,
+        "verified_creators": [
+            "actions",
+            "coverallsapp",
+            "github",
+            "dependabot"
+        ],
+        "unverified_creators": [
+            "peter-evans"
+        ]
+    },
+    "cli": {
+        "total_actions": 28,
+        "actions_with_commit_hash": 0,
+        "self_hosted_runners": 0,
+        "unverified_creator_actions": 2,
+        "verified_creators": [
+            "actions",
+            "github",
+            "goreleaser",
+            "microsoft"
+        ],
+        "unverified_creators": [
+            "mislav"
+        ]
+    },
+    "ClickHouse": {
+        "total_actions": 34,
+        "actions_with_commit_hash": 4,
+        "self_hosted_runners": 15,
+        "unverified_creator_actions": 12,
+        "verified_creators": [
+            "ClickHouse"
+        ],
+        "unverified_creators": [
+            "styfle",
+            "hmarr",
+            ".",
+            "peter-evans"
+        ]
+    },
+    "cmder": {
+        "total_actions": 15,
+        "actions_with_commit_hash": 0,
+        "self_hosted_runners": 0,
+        "unverified_creator_actions": 2,
+        "verified_creators": [
+            "actions",
+            "microsoft",
+            "github"
+        ],
+        "unverified_creators": [
+            "softprops",
+            "peter-evans"
+        ]
+    },
+    "cobra": {
+        "total_actions": 11,
+        "actions_with_commit_hash": 0,
+        "self_hosted_runners": 1,
+        "unverified_creator_actions": 0,
+        "verified_creators": [
+            "actions",
+            "codelytv",
+            "golangci",
+            "msys2"
+        ],
+        "unverified_creators": []
+    },
+    "cockroach": {
+        "total_actions": 51,
+        "actions_with_commit_hash": 0,
+        "self_hosted_runners": 2,
+        "unverified_creator_actions": 2,
+        "verified_creators": [
+            "actions",
+            "pnpm",
+            "google-github-actions"
+        ],
+        "unverified_creators": [
+            "peter-evans"
+        ]
+    },
+    "code-server": {
+        "total_actions": 84,
+        "actions_with_commit_hash": 2,
+        "self_hosted_runners": 0,
+        "unverified_creator_actions": 11,
+        "verified_creators": [
+            "actions",
+            "tj-actions",
+            "azure",
+            "codecov",
+            "Homebrew",
+            "docker",
+            "aquasecurity",
+            "github"
+        ],
+        "unverified_creators": [
+            "actionsx",
+            "awalsh128",
+            "robinraju",
+            "heyhusen",
+            "softprops",
+            "dawidd6"
+        ]
+    },
+    "CodeMirror": {
+        "total_actions": 2,
+        "actions_with_commit_hash": 2,
+        "self_hosted_runners": 0,
+        "unverified_creator_actions": 0,
+        "verified_creators": [
+            "actions"
+        ],
+        "unverified_creators": []
+    },
+    "commander.js": {
+        "total_actions": 6,
+        "actions_with_commit_hash": 0,
+        "self_hosted_runners": 0,
+        "unverified_creator_actions": 0,
+        "verified_creators": [
+            "actions",
+            "github"
+        ],
+        "unverified_creators": []
+    },
+    "components": {
+        "total_actions": 85,
+        "actions_with_commit_hash": 71,
+        "self_hosted_runners": 2,
+        "unverified_creator_actions": 15,
+        "verified_creators": [
+            "actions",
+            "angular",
+            "zattoo",
+            "ossf",
+            "github"
+        ],
+        "unverified_creators": [
+            ".",
+            "FirebaseExtended"
+        ]
+    },
+    "compose": {
+        "total_actions": 50,
+        "actions_with_commit_hash": 6,
+        "self_hosted_runners": 1,
+        "unverified_creator_actions": 3,
+        "verified_creators": [
+            "actions",
+            "docker",
+            "test-summary",
+            "codecov",
+            "github",
+            "ossf"
+        ],
+        "unverified_creators": [
+            "mxschmitt",
+            "ncipollo",
+            "tibdex"
+        ]
+    },
+    "composer": {
+        "total_actions": 18,
+        "actions_with_commit_hash": 0,
+        "self_hosted_runners": 0,
+        "unverified_creator_actions": 6,
+        "verified_creators": [
+            "actions"
+        ],
+        "unverified_creators": [
+            "shivammathur"
+        ]
+    },
+    "core": {
+        "total_actions": 123,
+        "actions_with_commit_hash": 1,
+        "self_hosted_runners": 0,
+        "unverified_creator_actions": 12,
+        "verified_creators": [
+            "actions",
+            "home-assistant",
+            "docker",
+            "sigstore",
+            "github"
+        ],
+        "unverified_creators": [
+            "dawidd6",
+            "dorny",
+            "docker:",
+            "Wandalen",
+            "dessant",
+            "tibdex"
+        ]
+    },
+    "core-js": {
+        "total_actions": 9,
+        "actions_with_commit_hash": 0,
+        "self_hosted_runners": 0,
+        "unverified_creator_actions": 0,
+        "verified_creators": [
+            "actions"
+        ],
+        "unverified_creators": []
+    },
+    "CppCoreGuidelines": {
+        "total_actions": 1,
+        "actions_with_commit_hash": 0,
+        "self_hosted_runners": 0,
+        "unverified_creator_actions": 0,
+        "verified_creators": [
+            "actions"
+        ],
+        "unverified_creators": []
+    },
+    "cpython": {
+        "total_actions": 68,
+        "actions_with_commit_hash": 1,
+        "self_hosted_runners": 1,
+        "unverified_creator_actions": 12,
+        "verified_creators": [
+            "actions",
+            "google",
+            "github",
+            "readthedocs",
+            "pre-commit"
+        ],
+        "unverified_creators": [
+            "Ana06",
+            "hendrikmuhs",
+            "egor-tensin",
+            "re-actors",
+            "mheap",
+            "jcbhmr"
+        ]
+    },
+    "create-react-app": {
+        "total_actions": 8,
+        "actions_with_commit_hash": 0,
+        "self_hosted_runners": 0,
+        "unverified_creator_actions": 0,
+        "verified_creators": [
+            "actions"
+        ],
+        "unverified_creators": []
+    },
+    "curl": {
+        "total_actions": 62,
+        "actions_with_commit_hash": 0,
+        "self_hosted_runners": 0,
+        "unverified_creator_actions": 2,
+        "verified_creators": [
+            "actions",
+            "github",
+            "fsfe"
+        ],
+        "unverified_creators": [
+            "gaurav-nelson",
+            "rojopolis"
+        ]
+    },
+    "cypress": {
+        "total_actions": 28,
+        "actions_with_commit_hash": 0,
+        "self_hosted_runners": 0,
+        "unverified_creator_actions": 0,
+        "verified_creators": [
+            "actions",
+            "snyk"
+        ],
+        "unverified_creators": []
+    },
+    "d2l-en": {
+        "total_actions": 19,
+        "actions_with_commit_hash": 1,
+        "self_hosted_runners": 0,
+        "unverified_creator_actions": 11,
+        "verified_creators": [
+            "actions",
+            "aws-actions"
+        ],
+        "unverified_creators": [
+            ".",
+            "peter-evans"
+        ]
+    },
+    "d3": {
+        "total_actions": 8,
+        "actions_with_commit_hash": 0,
+        "self_hosted_runners": 0,
+        "unverified_creator_actions": 0,
+        "verified_creators": [
+            "actions"
+        ],
+        "unverified_creators": []
+    },
+    "dapr": {
+        "total_actions": 221,
+        "actions_with_commit_hash": 0,
+        "self_hosted_runners": 0,
+        "unverified_creator_actions": 57,
+        "verified_creators": [
+            "actions",
+            "docker",
+            "azure",
+            "test-summary",
+            "golangci",
+            "codecov",
+            "fossas",
+            "helm"
+        ],
+        "unverified_creators": [
+            "akhilerm",
+            "artursouza"
+        ]
+    },
+    "date-fns": {
+        "total_actions": 16,
+        "actions_with_commit_hash": 0,
+        "self_hosted_runners": 0,
+        "unverified_creator_actions": 1,
+        "verified_creators": [
+            "actions",
+            "oven-sh"
+        ],
+        "unverified_creators": [
+            "coactions"
+        ]
+    },
+    "dayjs": {
+        "total_actions": 4,
+        "actions_with_commit_hash": 0,
+        "self_hosted_runners": 0,
+        "unverified_creator_actions": 0,
+        "verified_creators": [
+            "actions"
+        ],
+        "unverified_creators": []
+    },
+    "dbeaver": {
+        "total_actions": 1,
+        "actions_with_commit_hash": 0,
+        "self_hosted_runners": 0,
+        "unverified_creator_actions": 1,
+        "verified_creators": [],
+        "unverified_creators": [
+            "gsactions"
+        ]
+    },
+    "DeepSpeech": {
+        "total_actions": 363,
+        "actions_with_commit_hash": 0,
+        "self_hosted_runners": 1,
+        "unverified_creator_actions": 119,
+        "verified_creators": [
+            "actions"
+        ],
+        "unverified_creators": [
+            ".",
+            "mozilla"
+        ]
+    },
+    "DefinitelyTyped": {
+        "total_actions": 38,
+        "actions_with_commit_hash": 38,
+        "self_hosted_runners": 0,
+        "unverified_creator_actions": 4,
+        "verified_creators": [
+            "actions",
+            "pnpm"
+        ],
+        "unverified_creators": [
+            "stefanzweifel",
+            "peter-evans"
+        ]
+    },
+    "deno": {
+        "total_actions": 32,
+        "actions_with_commit_hash": 0,
+        "self_hosted_runners": 2,
+        "unverified_creator_actions": 5,
+        "verified_creators": [
+            "actions",
+            "denoland",
+            "arduino",
+            "google-github-actions"
+        ],
+        "unverified_creators": [
+            "dsherret",
+            ".",
+            "softprops"
+        ]
+    },
+    "detectron2": {
+        "total_actions": 10,
+        "actions_with_commit_hash": 0,
+        "self_hosted_runners": 0,
+        "unverified_creator_actions": 2,
+        "verified_creators": [
+            "actions"
+        ],
+        "unverified_creators": [
+            "dessant",
+            "octokit"
+        ]
+    },
+    "devise": {
+        "total_actions": 3,
+        "actions_with_commit_hash": 0,
+        "self_hosted_runners": 0,
+        "unverified_creator_actions": 0,
+        "verified_creators": [
+            "actions",
+            "ruby",
+            "supercharge"
+        ],
+        "unverified_creators": []
+    },
+    "directus": {
+        "total_actions": 39,
+        "actions_with_commit_hash": 0,
+        "self_hosted_runners": 1,
+        "unverified_creator_actions": 13,
+        "verified_creators": [
+            "actions",
+            "tj-actions",
+            "directus",
+            "github",
+            "docker"
+        ],
+        "unverified_creators": [
+            ".",
+            "marocchino",
+            "dessant",
+            "madhead",
+            "peter-evans"
+        ]
+    },
+    "discord.js": {
+        "total_actions": 49,
+        "actions_with_commit_hash": 0,
+        "self_hosted_runners": 0,
+        "unverified_creator_actions": 23,
+        "verified_creators": [
+            "actions",
+            "github",
+            "docker"
+        ],
+        "unverified_creators": [
+            ".",
+            "crazy-max",
+            "dessant"
+        ]
+    },
+    "discourse": {
+        "total_actions": 27,
+        "actions_with_commit_hash": 0,
+        "self_hosted_runners": 1,
+        "unverified_creator_actions": 0,
+        "verified_creators": [
+            "actions"
+        ],
+        "unverified_creators": []
+    },
+    "django": {
+        "total_actions": 43,
+        "actions_with_commit_hash": 2,
+        "self_hosted_runners": 0,
+        "unverified_creator_actions": 4,
+        "verified_creators": [
+            "actions",
+            "psf"
+        ],
+        "unverified_creators": [
+            "liskin",
+            "agrc"
+        ]
+    },
+    "django-rest-framework": {
+        "total_actions": 7,
+        "actions_with_commit_hash": 0,
+        "self_hosted_runners": 0,
+        "unverified_creator_actions": 0,
+        "verified_creators": [
+            "actions",
+            "pre-commit"
+        ],
+        "unverified_creators": []
+    },
+    "docsify": {
+        "total_actions": 7,
+        "actions_with_commit_hash": 0,
+        "self_hosted_runners": 0,
+        "unverified_creator_actions": 0,
+        "verified_creators": [
+            "actions"
+        ],
+        "unverified_creators": []
+    },
+    "docusaurus": {
+        "total_actions": 41,
+        "actions_with_commit_hash": 39,
+        "self_hosted_runners": 0,
+        "unverified_creator_actions": 2,
+        "verified_creators": [
+            "actions",
+            "preactjs",
+            "github",
+            "treosh"
+        ],
+        "unverified_creators": [
+            "marocchino",
+            "stefanzweifel"
+        ]
+    },
+    "dokku": {
+        "total_actions": 48,
+        "actions_with_commit_hash": 4,
+        "self_hosted_runners": 1,
+        "unverified_creator_actions": 7,
+        "verified_creators": [
+            "actions",
+            "docker",
+            "github",
+            "hashicorp",
+            "tj-actions",
+            "ruby"
+        ],
+        "unverified_creators": [
+            ".",
+            "EnricoMi",
+            "hadolint",
+            "ludeeus",
+            "luizm",
+            "ibiqlik"
+        ]
+    },
+    "draft-js": {
+        "total_actions": 2,
+        "actions_with_commit_hash": 0,
+        "self_hosted_runners": 0,
+        "unverified_creator_actions": 0,
+        "verified_creators": [
+            "actions"
+        ],
+        "unverified_creators": []
+    },
+    "drawio": {
+        "total_actions": 6,
+        "actions_with_commit_hash": 0,
+        "self_hosted_runners": 0,
+        "unverified_creator_actions": 1,
+        "verified_creators": [
+            "actions",
+            "github"
+        ],
+        "unverified_creators": [
+            "softprops"
+        ]
+    },
+    "drone": {
+        "total_actions": 5,
+        "actions_with_commit_hash": 0,
+        "self_hosted_runners": 0,
+        "unverified_creator_actions": 0,
+        "verified_creators": [
+            "actions",
+            "golangci"
+        ],
+        "unverified_creators": []
+    },
+    "druid": {
+        "total_actions": 3,
+        "actions_with_commit_hash": 0,
+        "self_hosted_runners": 0,
+        "unverified_creator_actions": 0,
+        "verified_creators": [
+            "actions",
+            "codecov"
+        ],
+        "unverified_creators": []
+    },
+    "dubbo": {
+        "total_actions": 232,
+        "actions_with_commit_hash": 2,
+        "self_hosted_runners": 0,
+        "unverified_creator_actions": 5,
+        "verified_creators": [
+            "actions",
+            "apache",
+            "msys2",
+            "codecov"
+        ],
+        "unverified_creators": [
+            "graalvm"
+        ]
+    },
+    "echarts": {
+        "total_actions": 28,
+        "actions_with_commit_hash": 0,
+        "self_hosted_runners": 0,
+        "unverified_creator_actions": 3,
+        "verified_creators": [
+            "actions"
+        ],
+        "unverified_creators": [
+            "."
+        ]
+    },
+    "echo": {
+        "total_actions": 8,
+        "actions_with_commit_hash": 0,
+        "self_hosted_runners": 0,
+        "unverified_creator_actions": 0,
+        "verified_creators": [
+            "actions",
+            "codecov"
+        ],
+        "unverified_creators": []
+    },
+    "elasticsearch": {
+        "total_actions": 3,
+        "actions_with_commit_hash": 1,
+        "self_hosted_runners": 0,
+        "unverified_creator_actions": 0,
+        "verified_creators": [
+            "actions",
+            "gradle"
+        ],
+        "unverified_creators": []
+    },
+    "electron": {
+        "total_actions": 36,
+        "actions_with_commit_hash": 36,
+        "self_hosted_runners": 0,
+        "unverified_creator_actions": 13,
+        "verified_creators": [
+            "electron",
+            "actions",
+            "slackapi",
+            "ossf",
+            "github"
+        ],
+        "unverified_creators": [
+            "dsanders11",
+            "actions-cool",
+            "amannn",
+            "mikefarah"
+        ]
+    },
+    "electron-react-boilerplate": {
+        "total_actions": 8,
+        "actions_with_commit_hash": 0,
+        "self_hosted_runners": 0,
+        "unverified_creator_actions": 0,
+        "verified_creators": [
+            "actions",
+            "github"
+        ],
+        "unverified_creators": []
+    },
+    "element": {
+        "total_actions": 10,
+        "actions_with_commit_hash": 0,
+        "self_hosted_runners": 0,
+        "unverified_creator_actions": 6,
+        "verified_creators": [
+            "actions"
+        ],
+        "unverified_creators": [
+            "dawidd6",
+            "actions-cool"
+        ]
+    },
+    "elixir": {
+        "total_actions": 13,
+        "actions_with_commit_hash": 0,
+        "self_hosted_runners": 0,
+        "unverified_creator_actions": 6,
+        "verified_creators": [
+            "actions"
+        ],
+        "unverified_creators": [
+            ".",
+            "DavidAnson",
+            "erlef"
+        ]
+    },
+    "ember.js": {
+        "total_actions": 48,
+        "actions_with_commit_hash": 0,
+        "self_hosted_runners": 0,
+        "unverified_creator_actions": 22,
+        "verified_creators": [
+            "actions",
+            "jitterbit"
+        ],
+        "unverified_creators": [
+            ".",
+            "browser-actions",
+            "sarisia"
+        ]
+    },
+    "emscripten": {
+        "total_actions": 6,
+        "actions_with_commit_hash": 6,
+        "self_hosted_runners": 0,
+        "unverified_creator_actions": 0,
+        "verified_creators": [
+            "actions",
+            "ossf",
+            "github"
+        ],
+        "unverified_creators": []
+    },
+    "envoy": {
+        "total_actions": 83,
+        "actions_with_commit_hash": 19,
+        "self_hosted_runners": 1,
+        "unverified_creator_actions": 64,
+        "verified_creators": [
+            "actions",
+            "github",
+            "ossf"
+        ],
+        "unverified_creators": [
+            "envoyproxy"
+        ]
+    },
+    "eslint": {
+        "total_actions": 18,
+        "actions_with_commit_hash": 0,
+        "self_hosted_runners": 0,
+        "unverified_creator_actions": 0,
+        "verified_creators": [
+            "actions",
+            "github"
+        ],
+        "unverified_creators": []
+    },
+    "etcd": {
+        "total_actions": 46,
+        "actions_with_commit_hash": 41,
+        "self_hosted_runners": 3,
+        "unverified_creator_actions": 3,
+        "verified_creators": [
+            "actions",
+            "github",
+            "aquasecurity",
+            "ossf",
+            "golangci",
+            "arduino"
+        ],
+        "unverified_creators": [
+            "alexellis",
+            "self-actuated",
+            "actions-rs"
+        ]
+    },
+    "excalidraw": {
+        "total_actions": 28,
+        "actions_with_commit_hash": 0,
+        "self_hosted_runners": 0,
+        "unverified_creator_actions": 7,
+        "verified_creators": [
+            "actions",
+            "docker"
+        ],
+        "unverified_creators": [
+            "peter-evans",
+            "styfle",
+            "kt3k",
+            "amannn",
+            "andresz1",
+            "davelosert"
+        ]
+    },
+    "expo": {
+        "total_actions": 202,
+        "actions_with_commit_hash": 0,
+        "self_hosted_runners": 0,
+        "unverified_creator_actions": 83,
+        "verified_creators": [
+            "actions",
+            "oven-sh",
+            "ruby",
+            "expo"
+        ],
+        "unverified_creators": [
+            ".",
+            "8398a7",
+            "peter-evans",
+            "dessant"
+        ]
+    },
+    "express": {
+        "total_actions": 5,
+        "actions_with_commit_hash": 0,
+        "self_hosted_runners": 0,
+        "unverified_creator_actions": 0,
+        "verified_creators": [
+            "actions",
+            "coverallsapp"
+        ],
+        "unverified_creators": []
+    },
+    "faas": {
+        "total_actions": 9,
+        "actions_with_commit_hash": 0,
+        "self_hosted_runners": 0,
+        "unverified_creator_actions": 0,
+        "verified_creators": [
+            "actions",
+            "docker"
+        ],
+        "unverified_creators": []
+    },
+    "fabric.js": {
+        "total_actions": 55,
+        "actions_with_commit_hash": 0,
+        "self_hosted_runners": 0,
+        "unverified_creator_actions": 19,
+        "verified_creators": [
+            "actions",
+            "github"
+        ],
+        "unverified_creators": [
+            ".",
+            "ShaMan123",
+            "peter-evans"
+        ]
+    },
+    "fairseq": {
+        "total_actions": 13,
+        "actions_with_commit_hash": 0,
+        "self_hosted_runners": 0,
+        "unverified_creator_actions": 2,
+        "verified_creators": [
+            "actions"
+        ],
+        "unverified_creators": [
+            "EndBug",
+            "ncipollo"
+        ]
+    },
+    "faiss": {
+        "total_actions": 4,
+        "actions_with_commit_hash": 0,
+        "self_hosted_runners": 0,
+        "unverified_creator_actions": 0,
+        "verified_creators": [
+            "actions"
+        ],
+        "unverified_creators": []
+    },
+    "fastai": {
+        "total_actions": 6,
+        "actions_with_commit_hash": 0,
+        "self_hosted_runners": 0,
+        "unverified_creator_actions": 3,
+        "verified_creators": [
+            "actions"
+        ],
+        "unverified_creators": [
+            "fastai"
+        ]
+    },
+    "fastapi": {
+        "total_actions": 46,
+        "actions_with_commit_hash": 0,
+        "self_hosted_runners": 0,
+        "unverified_creator_actions": 15,
+        "verified_creators": [
+            "actions",
+            "pypa"
+        ],
+        "unverified_creators": [
+            "dorny",
+            "re-actors",
+            "dawidd6",
+            "cloudflare",
+            ".",
+            "tiangolo",
+            "docker:",
+            "mxschmitt"
+        ]
+    },
+    "fastify": {
+        "total_actions": 64,
+        "actions_with_commit_hash": 3,
+        "self_hosted_runners": 1,
+        "unverified_creator_actions": 9,
+        "verified_creators": [
+            "actions",
+            "nodesource",
+            "fastify",
+            "pnpm",
+            "nearform-actions"
+        ],
+        "unverified_creators": [
+            "tibdex",
+            "thollander",
+            "octokit",
+            "lycheeverse",
+            "jsumners",
+            "xt0rted"
+        ]
+    },
+    "fastjson": {
+        "total_actions": 3,
+        "actions_with_commit_hash": 0,
+        "self_hosted_runners": 1,
+        "unverified_creator_actions": 0,
+        "verified_creators": [
+            "actions"
+        ],
+        "unverified_creators": []
+    },
+    "fastlane": {
+        "total_actions": 10,
+        "actions_with_commit_hash": 0,
+        "self_hosted_runners": 0,
+        "unverified_creator_actions": 4,
+        "verified_creators": [
+            "actions",
+            "ruby",
+            "rubygems"
+        ],
+        "unverified_creators": [
+            "fastlane",
+            "mislav"
+        ]
+    },
+    "fetch": {
+        "total_actions": 8,
+        "actions_with_commit_hash": 8,
+        "self_hosted_runners": 0,
+        "unverified_creator_actions": 1,
+        "verified_creators": [
+            "actions",
+            "google-github-actions",
+            "ossf",
+            "github"
+        ],
+        "unverified_creators": [
+            "dessant"
+        ]
+    },
+    "fiber": {
+        "total_actions": 20,
+        "actions_with_commit_hash": 0,
+        "self_hosted_runners": 0,
+        "unverified_creator_actions": 2,
+        "verified_creators": [
+            "actions",
+            "github",
+            "golangci",
+            "release-drafter",
+            "codecov"
+        ],
+        "unverified_creators": [
+            "fuxingloh",
+            "benchmark-action"
+        ]
+    },
+    "filebrowser": {
+        "total_actions": 18,
+        "actions_with_commit_hash": 0,
+        "self_hosted_runners": 0,
+        "unverified_creator_actions": 0,
+        "verified_creators": [
+            "actions",
+            "docker",
+            "goreleaser"
+        ],
+        "unverified_creators": []
+    },
+    "firecracker": {
+        "total_actions": 3,
+        "actions_with_commit_hash": 0,
+        "self_hosted_runners": 0,
+        "unverified_creator_actions": 0,
+        "verified_creators": [
+            "actions"
+        ],
+        "unverified_creators": []
+    },
+    "first-contributions": {
+        "total_actions": 3,
+        "actions_with_commit_hash": 0,
+        "self_hosted_runners": 0,
+        "unverified_creator_actions": 0,
+        "verified_creators": [
+            "actions"
+        ],
+        "unverified_creators": []
+    },
+    "fish-shell": {
+        "total_actions": 13,
+        "actions_with_commit_hash": 0,
+        "self_hosted_runners": 0,
+        "unverified_creator_actions": 7,
+        "verified_creators": [
+            "actions"
+        ],
+        "unverified_creators": [
+            "dessant",
+            "dtolnay"
+        ]
+    },
+    "flask": {
+        "total_actions": 11,
+        "actions_with_commit_hash": 11,
+        "self_hosted_runners": 0,
+        "unverified_creator_actions": 1,
+        "verified_creators": [
+            "actions",
+            "pypa"
+        ],
+        "unverified_creators": [
+            "dessant"
+        ]
+    },
+    "flatbuffers": {
+        "total_actions": 71,
+        "actions_with_commit_hash": 5,
+        "self_hosted_runners": 1,
+        "unverified_creator_actions": 6,
+        "verified_creators": [
+            "actions",
+            "microsoft",
+            "gradle",
+            "wasmerio",
+            "dart-lang",
+            "github",
+            "google",
+            "ossf"
+        ],
+        "unverified_creators": [
+            "softprops",
+            "jiro4989",
+            "uraimo"
+        ]
+    },
+    "flink": {
+        "total_actions": 29,
+        "actions_with_commit_hash": 0,
+        "self_hosted_runners": 0,
+        "unverified_creator_actions": 12,
+        "verified_creators": [
+            "actions"
+        ],
+        "unverified_creators": [
+            "burnett01",
+            "."
+        ]
+    },
+    "flow": {
+        "total_actions": 59,
+        "actions_with_commit_hash": 0,
+        "self_hosted_runners": 1,
+        "unverified_creator_actions": 9,
+        "verified_creators": [
+            "actions"
+        ],
+        "unverified_creators": [
+            "maxim-lobanov",
+            ".",
+            "cygwin"
+        ]
+    },
+    "flutter": {
+        "total_actions": 13,
+        "actions_with_commit_hash": 13,
+        "self_hosted_runners": 0,
+        "unverified_creator_actions": 3,
+        "verified_creators": [
+            "actions",
+            "codecov",
+            "google",
+            "ossf",
+            "github"
+        ],
+        "unverified_creators": [
+            "dessant",
+            "peter-evans",
+            "godofredoc"
+        ]
+    },
+    "folly": {
+        "total_actions": 10,
+        "actions_with_commit_hash": 0,
+        "self_hosted_runners": 1,
+        "unverified_creator_actions": 0,
+        "verified_creators": [
+            "actions"
+        ],
+        "unverified_creators": []
+    },
+    "forem": {
+        "total_actions": 69,
+        "actions_with_commit_hash": 0,
+        "self_hosted_runners": 0,
+        "unverified_creator_actions": 9,
+        "verified_creators": [
+            "actions",
+            "tj-actions",
+            "docker",
+            "honeybadger-io",
+            "ruby",
+            "Workshop64",
+            "github"
+        ],
+        "unverified_creators": [
+            "actions-ecosystem",
+            "akhileshns",
+            "reviewdog",
+            "Wandalen",
+            "re-actors",
+            "contributor-assistant",
+            "peter-evans",
+            "mshick"
+        ]
+    },
+    "formik": {
+        "total_actions": 19,
+        "actions_with_commit_hash": 0,
+        "self_hosted_runners": 0,
+        "unverified_creator_actions": 2,
+        "verified_creators": [
+            "actions",
+            "tj-actions",
+            "preactjs"
+        ],
+        "unverified_creators": [
+            "benchmark-action",
+            "changesets"
+        ]
+    },
+    "framework": {
+        "total_actions": 49,
+        "actions_with_commit_hash": 0,
+        "self_hosted_runners": 0,
+        "unverified_creator_actions": 33,
+        "verified_creators": [
+            "actions"
+        ],
+        "unverified_creators": [
+            "shivammathur",
+            "nick-fields",
+            "stefanzweifel",
+            "appleboy"
+        ]
+    },
+    "free-programming-books": {
+        "total_actions": 17,
+        "actions_with_commit_hash": 0,
+        "self_hosted_runners": 0,
+        "unverified_creator_actions": 4,
+        "verified_creators": [
+            "actions",
+            "tj-actions",
+            "ruby"
+        ],
+        "unverified_creators": [
+            ".",
+            "eps1lon",
+            "actions-ecosystem"
+        ]
+    },
+    "freeCodeCamp": {
+        "total_actions": 120,
+        "actions_with_commit_hash": 80,
+        "self_hosted_runners": 0,
+        "unverified_creator_actions": 6,
+        "verified_creators": [
+            "actions",
+            "freecodecamp",
+            "crowdin",
+            "pnpm",
+            "supercharge"
+        ],
+        "unverified_creators": [
+            "subosito",
+            "cypress-io",
+            "FantasticFiasco"
+        ]
+    },
+    "freqtrade": {
+        "total_actions": 49,
+        "actions_with_commit_hash": 0,
+        "self_hosted_runners": 1,
+        "unverified_creator_actions": 11,
+        "verified_creators": [
+            "actions",
+            "pre-commit",
+            "pypa"
+        ],
+        "unverified_creators": [
+            "peter-evans",
+            "rjstone",
+            "scherermichael-oss",
+            "crazy-max"
+        ]
+    },
+    "frp": {
+        "total_actions": 14,
+        "actions_with_commit_hash": 0,
+        "self_hosted_runners": 0,
+        "unverified_creator_actions": 0,
+        "verified_creators": [
+            "actions",
+            "docker",
+            "golangci",
+            "goreleaser"
+        ],
+        "unverified_creators": []
+    },
+    "fyne": {
+        "total_actions": 11,
+        "actions_with_commit_hash": 0,
+        "self_hosted_runners": 0,
+        "unverified_creator_actions": 6,
+        "verified_creators": [
+            "actions"
+        ],
+        "unverified_creators": [
+            "WillAbides",
+            "shogo82148"
+        ]
+    },
+    "fzf": {
+        "total_actions": 18,
+        "actions_with_commit_hash": 0,
+        "self_hosted_runners": 0,
+        "unverified_creator_actions": 4,
+        "verified_creators": [
+            "actions",
+            "github",
+            "ruby"
+        ],
+        "unverified_creators": [
+            "JamesIves",
+            "crate-ci",
+            "vedantmgoyal2009"
+        ]
+    },
+    "gatsby": {
+        "total_actions": 4,
+        "actions_with_commit_hash": 0,
+        "self_hosted_runners": 0,
+        "unverified_creator_actions": 2,
+        "verified_creators": [
+            "actions"
+        ],
+        "unverified_creators": [
+            ".",
+            "pullreminders"
+        ]
+    },
+    "Ghost": {
+        "total_actions": 86,
+        "actions_with_commit_hash": 1,
+        "self_hosted_runners": 0,
+        "unverified_creator_actions": 20,
+        "verified_creators": [
+            "actions",
+            "tryghost",
+            "tailscale",
+            "codecov"
+        ],
+        "unverified_creators": [
+            "dorny",
+            "AurorNZ",
+            ".",
+            "benchmark-action",
+            "daniellockyer",
+            "aurelien-baudet",
+            "asdf-vm",
+            "peter-evans"
+        ]
+    },
+    "gin": {
+        "total_actions": 13,
+        "actions_with_commit_hash": 0,
+        "self_hosted_runners": 0,
+        "unverified_creator_actions": 0,
+        "verified_creators": [
+            "actions",
+            "github",
+            "golangci",
+            "codecov",
+            "goreleaser"
+        ],
+        "unverified_creators": []
+    },
+    "git": {
+        "total_actions": 33,
+        "actions_with_commit_hash": 0,
+        "self_hosted_runners": 2,
+        "unverified_creator_actions": 7,
+        "verified_creators": [
+            "actions",
+            "microsoft"
+        ],
+        "unverified_creators": [
+            "git-for-windows",
+            "mshick"
+        ]
+    },
+    "gitea": {
+        "total_actions": 106,
+        "actions_with_commit_hash": 0,
+        "self_hosted_runners": 3,
+        "unverified_creator_actions": 9,
+        "verified_creators": [
+            "actions",
+            "crowdin",
+            "docker",
+            "aws-actions"
+        ],
+        "unverified_creators": [
+            "appleboy",
+            "jlumbroso",
+            "dorny",
+            "crazy-max",
+            "dev-hanz-ops"
+        ]
+    },
+    "glances": {
+        "total_actions": 25,
+        "actions_with_commit_hash": 0,
+        "self_hosted_runners": 0,
+        "unverified_creator_actions": 1,
+        "verified_creators": [
+            "actions",
+            "pypa",
+            "docker",
+            "aquasecurity",
+            "github"
+        ],
+        "unverified_creators": [
+            "crazy-max"
+        ]
+    },
+    "glide": {
+        "total_actions": 7,
+        "actions_with_commit_hash": 0,
+        "self_hosted_runners": 0,
+        "unverified_creator_actions": 1,
+        "verified_creators": [
+            "actions",
+            "gradle"
+        ],
+        "unverified_creators": [
+            "suzuki-shunsuke"
+        ]
+    },
+    "go-ethereum": {
+        "total_actions": 2,
+        "actions_with_commit_hash": 0,
+        "self_hosted_runners": 1,
+        "unverified_creator_actions": 0,
+        "verified_creators": [
+            "actions"
+        ],
+        "unverified_creators": []
+    },
+    "go-micro": {
+        "total_actions": 2,
+        "actions_with_commit_hash": 0,
+        "self_hosted_runners": 0,
+        "unverified_creator_actions": 0,
+        "verified_creators": [
+            "actions"
+        ],
+        "unverified_creators": []
+    },
+    "godot": {
+        "total_actions": 46,
+        "actions_with_commit_hash": 0,
+        "self_hosted_runners": 0,
+        "unverified_creator_actions": 35,
+        "verified_creators": [
+            "actions",
+            "pre-commit"
+        ],
+        "unverified_creators": [
+            ".",
+            "ammaraskar",
+            "awalsh128",
+            "codespell-project",
+            "mymindstorm"
+        ]
+    },
+    "gogs": {
+        "total_actions": 44,
+        "actions_with_commit_hash": 0,
+        "self_hosted_runners": 0,
+        "unverified_creator_actions": 7,
+        "verified_creators": [
+            "actions",
+            "github",
+            "docker",
+            "arduino",
+            "golangci",
+            "codecov"
+        ],
+        "unverified_creators": [
+            "dawidd6",
+            "benjlevesque",
+            "dessant",
+            "ludeeus"
+        ]
+    },
+    "gold-miner": {
+        "total_actions": 10,
+        "actions_with_commit_hash": 0,
+        "self_hosted_runners": 0,
+        "unverified_creator_actions": 3,
+        "verified_creators": [
+            "actions"
+        ],
+        "unverified_creators": [
+            "EndBug",
+            "peter-evans"
+        ]
+    },
+    "gorm": {
+        "total_actions": 27,
+        "actions_with_commit_hash": 0,
+        "self_hosted_runners": 0,
+        "unverified_creator_actions": 4,
+        "verified_creators": [
+            "actions"
+        ],
+        "unverified_creators": [
+            "jinzhu",
+            "reviewdog",
+            "Icemap"
+        ]
+    },
+    "grafana": {
+        "total_actions": 138,
+        "actions_with_commit_hash": 16,
+        "self_hosted_runners": 0,
+        "unverified_creator_actions": 44,
+        "verified_creators": [
+            "actions",
+            "grafana",
+            "github",
+            "google-github-actions",
+            "slackapi",
+            "crowdin",
+            "anchore"
+        ],
+        "unverified_creators": [
+            "peter-evans",
+            "tibdex",
+            ".",
+            "actions-ecosystem",
+            "mszostok",
+            "marocchino",
+            "octokit",
+            "frabert",
+            "peter-murray"
+        ]
+    },
+    "graphql-engine": {
+        "total_actions": 3,
+        "actions_with_commit_hash": 0,
+        "self_hosted_runners": 0,
+        "unverified_creator_actions": 0,
+        "verified_creators": [
+            "actions"
+        ],
+        "unverified_creators": []
+    },
+    "grpc": {
+        "total_actions": 9,
+        "actions_with_commit_hash": 9,
+        "self_hosted_runners": 0,
+        "unverified_creator_actions": 4,
+        "verified_creators": [
+            "actions"
+        ],
+        "unverified_creators": [
+            "srfrnk",
+            "styfle",
+            "peter-evans"
+        ]
+    },
+    "gson": {
+        "total_actions": 19,
+        "actions_with_commit_hash": 17,
+        "self_hosted_runners": 0,
+        "unverified_creator_actions": 1,
+        "verified_creators": [
+            "actions",
+            "google",
+            "github"
+        ],
+        "unverified_creators": [
+            "graalvm"
+        ]
+    },
+    "gulp": {
+        "total_actions": 7,
+        "actions_with_commit_hash": 0,
+        "self_hosted_runners": 0,
+        "unverified_creator_actions": 2,
+        "verified_creators": [
+            "actions",
+            "coverallsapp"
+        ],
+        "unverified_creators": [
+            "gulpjs",
+            "GoogleCloudPlatform"
+        ]
+    },
+    "guzzle": {
+        "total_actions": 17,
+        "actions_with_commit_hash": 0,
+        "self_hosted_runners": 0,
+        "unverified_creator_actions": 7,
+        "verified_creators": [
+            "actions"
+        ],
+        "unverified_creators": [
+            "docker:",
+            "shivammathur"
+        ]
+    },
+    "gym": {
+        "total_actions": 3,
+        "actions_with_commit_hash": 0,
+        "self_hosted_runners": 0,
+        "unverified_creator_actions": 0,
+        "verified_creators": [
+            "actions"
+        ],
+        "unverified_creators": []
+    },
+    "hackathon-starter": {
+        "total_actions": 2,
+        "actions_with_commit_hash": 0,
+        "self_hosted_runners": 0,
+        "unverified_creator_actions": 0,
+        "verified_creators": [
+            "actions"
+        ],
+        "unverified_creators": []
+    },
+    "halo": {
+        "total_actions": 14,
+        "actions_with_commit_hash": 0,
+        "self_hosted_runners": 0,
+        "unverified_creator_actions": 3,
+        "verified_creators": [
+            "actions",
+            "codecov",
+            "docker"
+        ],
+        "unverified_creators": [
+            "."
+        ]
+    },
+    "HanLP": {
+        "total_actions": 5,
+        "actions_with_commit_hash": 0,
+        "self_hosted_runners": 0,
+        "unverified_creator_actions": 0,
+        "verified_creators": [
+            "actions"
+        ],
+        "unverified_creators": []
+    },
+    "harbor": {
+        "total_actions": 43,
+        "actions_with_commit_hash": 0,
+        "self_hosted_runners": 0,
+        "unverified_creator_actions": 5,
+        "verified_creators": [
+            "actions",
+            "google-github-actions",
+            "docker-practice",
+            "jitterbit",
+            "codecov",
+            "github",
+            "aquasecurity"
+        ],
+        "unverified_creators": [
+            "kentaro-m",
+            "sonots",
+            "mheap",
+            "softprops"
+        ]
+    },
+    "helm": {
+        "total_actions": 17,
+        "actions_with_commit_hash": 16,
+        "self_hosted_runners": 0,
+        "unverified_creator_actions": 3,
+        "verified_creators": [
+            "actions",
+            "github",
+            "golangci"
+        ],
+        "unverified_creators": [
+            "bacongobbler"
+        ]
+    },
+    "hexo": {
+        "total_actions": 17,
+        "actions_with_commit_hash": 0,
+        "self_hosted_runners": 0,
+        "unverified_creator_actions": 3,
+        "verified_creators": [
+            "actions",
+            "coverallsapp"
+        ],
+        "unverified_creators": [
+            "dswistowski",
+            "marocchino"
+        ]
+    },
+    "highlight.js": {
+        "total_actions": 15,
+        "actions_with_commit_hash": 0,
+        "self_hosted_runners": 0,
+        "unverified_creator_actions": 1,
+        "verified_creators": [
+            "actions",
+            "JS-DevTools"
+        ],
+        "unverified_creators": [
+            "geritol"
+        ]
+    },
+    "hiring-without-whiteboards": {
+        "total_actions": 2,
+        "actions_with_commit_hash": 0,
+        "self_hosted_runners": 0,
+        "unverified_creator_actions": 0,
+        "verified_creators": [
+            "actions"
+        ],
+        "unverified_creators": []
+    },
+    "homebridge": {
+        "total_actions": 1,
+        "actions_with_commit_hash": 0,
+        "self_hosted_runners": 0,
+        "unverified_creator_actions": 1,
+        "verified_creators": [],
+        "unverified_creators": [
+            "oznu"
+        ]
+    },
+    "hosts": {
+        "total_actions": 13,
+        "actions_with_commit_hash": 0,
+        "self_hosted_runners": 0,
+        "unverified_creator_actions": 0,
+        "verified_creators": [
+            "actions",
+            "github",
+            "docker"
+        ],
+        "unverified_creators": []
+    },
+    "html5-boilerplate": {
+        "total_actions": 18,
+        "actions_with_commit_hash": 0,
+        "self_hosted_runners": 0,
+        "unverified_creator_actions": 1,
+        "verified_creators": [
+            "actions",
+            "github",
+            "streetsidesoftware"
+        ],
+        "unverified_creators": [
+            "cpina"
+        ]
+    },
+    "hub": {
+        "total_actions": 6,
+        "actions_with_commit_hash": 0,
+        "self_hosted_runners": 0,
+        "unverified_creator_actions": 1,
+        "verified_creators": [
+            "actions",
+            "ruby"
+        ],
+        "unverified_creators": [
+            "mislav"
+        ]
+    },
+    "hugo": {
+        "total_actions": 12,
+        "actions_with_commit_hash": 12,
+        "self_hosted_runners": 0,
+        "unverified_creator_actions": 3,
+        "verified_creators": [
+            "actions",
+            "ruby"
+        ],
+        "unverified_creators": [
+            "dessant",
+            "reitzig"
+        ]
+    },
+    "husky": {
+        "total_actions": 11,
+        "actions_with_commit_hash": 0,
+        "self_hosted_runners": 1,
+        "unverified_creator_actions": 0,
+        "verified_creators": [
+            "actions"
+        ],
+        "unverified_creators": []
+    },
+    "imgui": {
+        "total_actions": 7,
+        "actions_with_commit_hash": 0,
+        "self_hosted_runners": 0,
+        "unverified_creator_actions": 0,
+        "verified_creators": [
+            "actions"
+        ],
+        "unverified_creators": []
+    },
+    "immer": {
+        "total_actions": 7,
+        "actions_with_commit_hash": 0,
+        "self_hosted_runners": 0,
+        "unverified_creator_actions": 1,
+        "verified_creators": [
+            "actions",
+            "coverallsapp"
+        ],
+        "unverified_creators": [
+            "crazy-max"
+        ]
+    },
+    "incubator-echarts": {
+        "total_actions": 28,
+        "actions_with_commit_hash": 0,
+        "self_hosted_runners": 0,
+        "unverified_creator_actions": 3,
+        "verified_creators": [
+            "actions"
+        ],
+        "unverified_creators": [
+            "."
+        ]
+    },
+    "influxdb": {
+        "total_actions": 0,
+        "actions_with_commit_hash": 0,
+        "self_hosted_runners": 0,
+        "unverified_creator_actions": 0,
+        "verified_creators": [],
+        "unverified_creators": []
+    },
+    "ink": {
+        "total_actions": 2,
+        "actions_with_commit_hash": 0,
+        "self_hosted_runners": 0,
+        "unverified_creator_actions": 0,
+        "verified_creators": [
+            "actions"
+        ],
+        "unverified_creators": []
+    },
+    "insomnia": {
+        "total_actions": 41,
+        "actions_with_commit_hash": 2,
+        "self_hosted_runners": 0,
+        "unverified_creator_actions": 11,
+        "verified_creators": [
+            "Homebrew",
+            "actions",
+            "lando",
+            "BoundfoxStudios",
+            "Kong"
+        ],
+        "unverified_creators": [
+            "kt3k",
+            "dawidd6",
+            "sslcom",
+            "ncipollo",
+            "xresloader",
+            "snapcore",
+            "docker:",
+            "peterjgrainger",
+            "devops-infra"
+        ]
+    },
+    "intro.js": {
+        "total_actions": 4,
+        "actions_with_commit_hash": 0,
+        "self_hosted_runners": 0,
+        "unverified_creator_actions": 0,
+        "verified_creators": [
+            "actions",
+            "preactjs"
+        ],
+        "unverified_creators": []
+    },
+    "ionic-framework": {
+        "total_actions": 105,
+        "actions_with_commit_hash": 3,
+        "self_hosted_runners": 0,
+        "unverified_creator_actions": 56,
+        "verified_creators": [
+            "actions",
+            "github"
+        ],
+        "unverified_creators": [
+            "pozil",
+            "."
+        ]
+    },
+    "iris": {
+        "total_actions": 7,
+        "actions_with_commit_hash": 0,
+        "self_hosted_runners": 0,
+        "unverified_creator_actions": 0,
+        "verified_creators": [
+            "actions",
+            "github"
+        ],
+        "unverified_creators": []
+    },
+    "Java": {
+        "total_actions": 11,
+        "actions_with_commit_hash": 0,
+        "self_hosted_runners": 0,
+        "unverified_creator_actions": 1,
+        "verified_creators": [
+            "actions",
+            "github"
+        ],
+        "unverified_creators": [
+            "DoozyX"
+        ]
+    },
+    "java-design-patterns": {
+        "total_actions": 8,
+        "actions_with_commit_hash": 0,
+        "self_hosted_runners": 0,
+        "unverified_creator_actions": 0,
+        "verified_creators": [
+            "actions"
+        ],
+        "unverified_creators": []
+    },
+    "JavaGuide": {
+        "total_actions": 3,
+        "actions_with_commit_hash": 0,
+        "self_hosted_runners": 0,
+        "unverified_creator_actions": 0,
+        "verified_creators": [
+            "actions",
+            "pnpm"
+        ],
+        "unverified_creators": []
+    },
+    "javascript": {
+        "total_actions": 16,
+        "actions_with_commit_hash": 0,
+        "self_hosted_runners": 0,
+        "unverified_creator_actions": 8,
+        "verified_creators": [
+            "actions",
+            "codecov"
+        ],
+        "unverified_creators": [
+            "ljharb"
+        ]
+    },
+    "jax": {
+        "total_actions": 37,
+        "actions_with_commit_hash": 36,
+        "self_hosted_runners": 5,
+        "unverified_creator_actions": 6,
+        "verified_creators": [
+            "actions",
+            "pre-commit"
+        ],
+        "unverified_creators": [
+            "styfle"
+        ]
+    },
+    "jekyll": {
+        "total_actions": 19,
+        "actions_with_commit_hash": 0,
+        "self_hosted_runners": 0,
+        "unverified_creator_actions": 1,
+        "verified_creators": [
+            "actions",
+            "ruby",
+            "github",
+            "check-spelling"
+        ],
+        "unverified_creators": [
+            "ashmaroli"
+        ]
+    },
+    "jellyfin": {
+        "total_actions": 47,
+        "actions_with_commit_hash": 45,
+        "self_hosted_runners": 0,
+        "unverified_creator_actions": 20,
+        "verified_creators": [
+            "actions",
+            "github",
+            "jitterbit"
+        ],
+        "unverified_creators": [
+            "docker:",
+            "peter-evans",
+            "appleboy",
+            "danielpalme",
+            "cirrus-actions",
+            "alex-page",
+            "eps1lon",
+            "chrisdickinson"
+        ]
+    },
+    "jenkins": {
+        "total_actions": 16,
+        "actions_with_commit_hash": 6,
+        "self_hosted_runners": 0,
+        "unverified_creator_actions": 8,
+        "verified_creators": [
+            "roots",
+            "release-drafter",
+            "jenkinsci",
+            "actions"
+        ],
+        "unverified_creators": [
+            "dawidd6",
+            "tibdex",
+            "eps1lon",
+            "softprops"
+        ]
+    },
+    "jest": {
+        "total_actions": 37,
+        "actions_with_commit_hash": 0,
+        "self_hosted_runners": 3,
+        "unverified_creator_actions": 12,
+        "verified_creators": [
+            "actions",
+            "codecov"
+        ],
+        "unverified_creators": [
+            "dessant",
+            "jayqi",
+            "SimenB",
+            "nick-fields"
+        ]
+    },
+    "jitsi-meet": {
+        "total_actions": 16,
+        "actions_with_commit_hash": 0,
+        "self_hosted_runners": 1,
+        "unverified_creator_actions": 1,
+        "verified_creators": [
+            "actions",
+            "tj-actions"
+        ],
+        "unverified_creators": [
+            "maxim-lobanov"
+        ]
+    },
+    "joplin": {
+        "total_actions": 20,
+        "actions_with_commit_hash": 0,
+        "self_hosted_runners": 0,
+        "unverified_creator_actions": 8,
+        "verified_creators": [
+            "actions",
+            "docker"
+        ],
+        "unverified_creators": [
+            "fkirc",
+            "olegtarasov",
+            "Slashgear",
+            "contributor-assistant",
+            "quipper"
+        ]
+    },
+    "jquery": {
+        "total_actions": 18,
+        "actions_with_commit_hash": 18,
+        "self_hosted_runners": 0,
+        "unverified_creator_actions": 0,
+        "verified_creators": [
+            "actions",
+            "github"
+        ],
+        "unverified_creators": []
+    },
+    "jQuery-File-Upload": {
+        "total_actions": 7,
+        "actions_with_commit_hash": 0,
+        "self_hosted_runners": 0,
+        "unverified_creator_actions": 0,
+        "verified_creators": [
+            "actions"
+        ],
+        "unverified_creators": []
+    },
+    "json": {
+        "total_actions": 52,
+        "actions_with_commit_hash": 2,
+        "self_hosted_runners": 0,
+        "unverified_creator_actions": 10,
+        "verified_creators": [
+            "actions",
+            "google",
+            "github",
+            "coverallsapp"
+        ],
+        "unverified_creators": [
+            "srvaroa",
+            "peaceiris",
+            "lukka",
+            "egor-tensin"
+        ]
+    },
+    "jsPDF": {
+        "total_actions": 11,
+        "actions_with_commit_hash": 0,
+        "self_hosted_runners": 0,
+        "unverified_creator_actions": 0,
+        "verified_creators": [
+            "actions"
+        ],
+        "unverified_creators": []
+    },
+    "julia": {
+        "total_actions": 4,
+        "actions_with_commit_hash": 0,
+        "self_hosted_runners": 0,
+        "unverified_creator_actions": 2,
+        "verified_creators": [
+            "actions"
+        ],
+        "unverified_creators": [
+            "citation-file-format",
+            "yogevbd"
+        ]
+    },
+    "jumpserver": {
+        "total_actions": 23,
+        "actions_with_commit_hash": 0,
+        "self_hosted_runners": 0,
+        "unverified_creator_actions": 9,
+        "verified_creators": [
+            "actions",
+            "jumpserver",
+            "docker",
+            "release-drafter",
+            "wearerequired"
+        ],
+        "unverified_creators": [
+            "actions-cool",
+            "octokit",
+            "LouisBrunner"
+        ]
+    },
+    "k9s": {
+        "total_actions": 5,
+        "actions_with_commit_hash": 0,
+        "self_hosted_runners": 0,
+        "unverified_creator_actions": 0,
+        "verified_creators": [
+            "actions",
+            "golangci"
+        ],
+        "unverified_creators": []
+    },
+    "kafka": {
+        "total_actions": 16,
+        "actions_with_commit_hash": 0,
+        "self_hosted_runners": 0,
+        "unverified_creator_actions": 0,
+        "verified_creators": [
+            "actions",
+            "aquasecurity",
+            "docker"
+        ],
+        "unverified_creators": []
+    },
+    "keras": {
+        "total_actions": 28,
+        "actions_with_commit_hash": 4,
+        "self_hosted_runners": 0,
+        "unverified_creator_actions": 1,
+        "verified_creators": [
+            "actions",
+            "codecov",
+            "pypa",
+            "ossf",
+            "github"
+        ],
+        "unverified_creators": [
+            "dorny"
+        ]
+    },
+    "Kingfisher": {
+        "total_actions": 2,
+        "actions_with_commit_hash": 0,
+        "self_hosted_runners": 0,
+        "unverified_creator_actions": 0,
+        "verified_creators": [
+            "actions",
+            "ruby"
+        ],
+        "unverified_creators": []
+    },
+    "kitty": {
+        "total_actions": 16,
+        "actions_with_commit_hash": 0,
+        "self_hosted_runners": 0,
+        "unverified_creator_actions": 0,
+        "verified_creators": [
+            "actions",
+            "github"
+        ],
+        "unverified_creators": []
+    },
+    "koa": {
+        "total_actions": 2,
+        "actions_with_commit_hash": 0,
+        "self_hosted_runners": 0,
+        "unverified_creator_actions": 0,
+        "verified_creators": [
+            "actions"
+        ],
+        "unverified_creators": []
+    },
+    "kong": {
+        "total_actions": 106,
+        "actions_with_commit_hash": 22,
+        "self_hosted_runners": 0,
+        "unverified_creator_actions": 19,
+        "verified_creators": [
+            "actions",
+            "slackapi",
+            "Kong",
+            "tj-actions",
+            "rtCamp",
+            "devicons",
+            "docker"
+        ],
+        "unverified_creators": [
+            "toshimaru",
+            "stefanzweifel",
+            "korthout",
+            "actions-ecosystem",
+            ".",
+            "jschmid1",
+            "benc-uk",
+            "ben-z",
+            "xt0rted",
+            "bazelbuild",
+            "peter-evans",
+            "regclient"
+        ]
+    },
+    "laravel": {
+        "total_actions": 2,
+        "actions_with_commit_hash": 0,
+        "self_hosted_runners": 0,
+        "unverified_creator_actions": 1,
+        "verified_creators": [
+            "actions"
+        ],
+        "unverified_creators": [
+            "shivammathur"
+        ]
+    },
+    "lazygit": {
+        "total_actions": 24,
+        "actions_with_commit_hash": 0,
+        "self_hosted_runners": 0,
+        "unverified_creator_actions": 3,
+        "verified_creators": [
+            "actions",
+            "goreleaser",
+            "golangci"
+        ],
+        "unverified_creators": [
+            "dawidd6",
+            "mheap",
+            "JamesIves"
+        ]
+    },
+    "Leaflet": {
+        "total_actions": 17,
+        "actions_with_commit_hash": 0,
+        "self_hosted_runners": 1,
+        "unverified_creator_actions": 3,
+        "verified_creators": [
+            "actions",
+            "ruby"
+        ],
+        "unverified_creators": [
+            "browser-actions",
+            "jakejarvis"
+        ]
+    },
+    "leakcanary": {
+        "total_actions": 16,
+        "actions_with_commit_hash": 0,
+        "self_hosted_runners": 0,
+        "unverified_creator_actions": 2,
+        "verified_creators": [
+            "actions",
+            "gradle"
+        ],
+        "unverified_creators": [
+            "reactivecircus"
+        ]
+    },
+    "lede": {
+        "total_actions": 4,
+        "actions_with_commit_hash": 0,
+        "self_hosted_runners": 0,
+        "unverified_creator_actions": 0,
+        "verified_creators": [
+            "actions"
+        ],
+        "unverified_creators": []
+    },
+    "leetcode": {
+        "total_actions": 6,
+        "actions_with_commit_hash": 1,
+        "self_hosted_runners": 0,
+        "unverified_creator_actions": 3,
+        "verified_creators": [
+            "actions"
+        ],
+        "unverified_creators": [
+            "docker:",
+            "wip",
+            "trilom"
+        ]
+    },
+    "lerna": {
+        "total_actions": 23,
+        "actions_with_commit_hash": 0,
+        "self_hosted_runners": 0,
+        "unverified_creator_actions": 9,
+        "verified_creators": [
+            "actions",
+            "nrwl"
+        ],
+        "unverified_creators": [
+            ".",
+            "jameshenry",
+            "webfactory"
+        ]
+    },
+    "libgdx": {
+        "total_actions": 46,
+        "actions_with_commit_hash": 3,
+        "self_hosted_runners": 0,
+        "unverified_creator_actions": 2,
+        "verified_creators": [
+            "actions",
+            "gradle"
+        ],
+        "unverified_creators": [
+            "crazy-max",
+            "ad-m"
+        ]
+    },
+    "libuv": {
+        "total_actions": 16,
+        "actions_with_commit_hash": 0,
+        "self_hosted_runners": 1,
+        "unverified_creator_actions": 1,
+        "verified_creators": [
+            "actions"
+        ],
+        "unverified_creators": [
+            "KyleMayes"
+        ]
+    },
+    "lighthouse": {
+        "total_actions": 44,
+        "actions_with_commit_hash": 6,
+        "self_hosted_runners": 0,
+        "unverified_creator_actions": 3,
+        "verified_creators": [
+            "actions",
+            "codecov",
+            "arduino"
+        ],
+        "unverified_creators": [
+            "gaurav-nelson",
+            "patrickhulce"
+        ]
+    },
+    "livewire": {
+        "total_actions": 3,
+        "actions_with_commit_hash": 0,
+        "self_hosted_runners": 0,
+        "unverified_creator_actions": 1,
+        "verified_creators": [
+            "actions"
+        ],
+        "unverified_creators": [
+            "shivammathur"
+        ]
+    },
+    "llvm-project": {
+        "total_actions": 83,
+        "actions_with_commit_hash": 21,
+        "self_hosted_runners": 3,
+        "unverified_creator_actions": 8,
+        "verified_creators": [
+            "actions",
+            "tj-actions",
+            "llvm",
+            "pypa",
+            "ossf",
+            "github"
+        ],
+        "unverified_creators": [
+            "ilammy",
+            "aminya",
+            "hendrikmuhs",
+            "rmacklin"
+        ]
+    },
+    "localstack": {
+        "total_actions": 56,
+        "actions_with_commit_hash": 0,
+        "self_hosted_runners": 0,
+        "unverified_creator_actions": 11,
+        "verified_creators": [
+            "actions",
+            "cla-assistant",
+            "localstack",
+            "hashicorp",
+            "docker"
+        ],
+        "unverified_creators": [
+            "juliangruber",
+            "mad9000",
+            "peter-evans",
+            "JasonEtco",
+            "jlumbroso",
+            "EnricoMi",
+            "geekyeggo"
+        ]
+    },
+    "locust": {
+        "total_actions": 27,
+        "actions_with_commit_hash": 0,
+        "self_hosted_runners": 0,
+        "unverified_creator_actions": 5,
+        "verified_creators": [
+            "actions",
+            "docker",
+            "pypa"
+        ],
+        "unverified_creators": [
+            "borales"
+        ]
+    },
+    "lodash": {
+        "total_actions": 2,
+        "actions_with_commit_hash": 0,
+        "self_hosted_runners": 0,
+        "unverified_creator_actions": 0,
+        "verified_creators": [
+            "actions",
+            "oven-sh"
+        ],
+        "unverified_creators": []
+    },
+    "logrus": {
+        "total_actions": 7,
+        "actions_with_commit_hash": 0,
+        "self_hosted_runners": 0,
+        "unverified_creator_actions": 0,
+        "verified_creators": [
+            "actions",
+            "golangci"
+        ],
+        "unverified_creators": []
+    },
+    "lottie-android": {
+        "total_actions": 24,
+        "actions_with_commit_hash": 0,
+        "self_hosted_runners": 0,
+        "unverified_creator_actions": 2,
+        "verified_creators": [
+            "actions",
+            "gradle",
+            "emulator-wtf"
+        ],
+        "unverified_creators": [
+            "haya14busa",
+            "mshick"
+        ]
+    },
+    "lottie-web": {
+        "total_actions": 2,
+        "actions_with_commit_hash": 0,
+        "self_hosted_runners": 0,
+        "unverified_creator_actions": 0,
+        "verified_creators": [
+            "actions"
+        ],
+        "unverified_creators": []
+    },
+    "Magisk": {
+        "total_actions": 9,
+        "actions_with_commit_hash": 0,
+        "self_hosted_runners": 0,
+        "unverified_creator_actions": 2,
+        "verified_creators": [
+            "actions"
+        ],
+        "unverified_creators": [
+            "."
+        ]
+    },
+    "manim": {
+        "total_actions": 4,
+        "actions_with_commit_hash": 0,
+        "self_hosted_runners": 0,
+        "unverified_creator_actions": 1,
+        "verified_creators": [
+            "actions"
+        ],
+        "unverified_creators": [
+            "JamesIves"
+        ]
+    },
+    "marked": {
+        "total_actions": 6,
+        "actions_with_commit_hash": 0,
+        "self_hosted_runners": 0,
+        "unverified_creator_actions": 0,
+        "verified_creators": [
+            "actions"
+        ],
+        "unverified_creators": []
+    },
+    "mastodon": {
+        "total_actions": 65,
+        "actions_with_commit_hash": 0,
+        "self_hosted_runners": 0,
+        "unverified_creator_actions": 25,
+        "verified_creators": [
+            "actions",
+            "docker",
+            "github",
+            "crowdin",
+            "codecov"
+        ],
+        "unverified_creators": [
+            ".",
+            "peter-evans",
+            "xt0rted",
+            "r7kamura",
+            "eps1lon",
+            "fkirc"
+        ]
+    },
+    "material-ui": {
+        "total_actions": 23,
+        "actions_with_commit_hash": 23,
+        "self_hosted_runners": 0,
+        "unverified_creator_actions": 9,
+        "verified_creators": [
+            "actions",
+            "pnpm",
+            "github",
+            "ossf",
+            "errata-ai"
+        ],
+        "unverified_creators": [
+            "mnajdova",
+            "carloscastrojumo",
+            "eps1lon",
+            "actions-cool",
+            "MBilalShafi",
+            "peter-evans",
+            "dessant"
+        ]
+    },
+    "mattermost-server": {
+        "total_actions": 100,
+        "actions_with_commit_hash": 83,
+        "self_hosted_runners": 3,
+        "unverified_creator_actions": 9,
+        "verified_creators": [
+            "actions",
+            "github",
+            "docker",
+            "mattermost",
+            "tj-actions",
+            "ossf",
+            "getsentry",
+            "aws-actions",
+            "sigstore"
+        ],
+        "unverified_creators": [
+            "mikepenz",
+            "dawidd6",
+            "."
+        ]
+    },
+    "MeiliSearch": {
+        "total_actions": 130,
+        "actions_with_commit_hash": 0,
+        "self_hosted_runners": 10,
+        "unverified_creator_actions": 65,
+        "verified_creators": [
+            "actions",
+            "docker",
+            "dart-lang",
+            "ruby"
+        ],
+        "unverified_creators": [
+            "actions-rs",
+            "xt0rted",
+            "taiki-e",
+            "BetaHuhn",
+            "rickstaa",
+            "svenstaro",
+            "mislav",
+            "peter-evans",
+            "shivammathur",
+            "dschep",
+            "Swatinem",
+            "EndBug"
+        ]
+    },
+    "memos": {
+        "total_actions": 37,
+        "actions_with_commit_hash": 0,
+        "self_hosted_runners": 0,
+        "unverified_creator_actions": 0,
+        "verified_creators": [
+            "actions",
+            "golangci",
+            "docker",
+            "pnpm",
+            "usthe",
+            "bufbuild"
+        ],
+        "unverified_creators": []
+    },
+    "mermaid": {
+        "total_actions": 71,
+        "actions_with_commit_hash": 0,
+        "self_hosted_runners": 0,
+        "unverified_creator_actions": 12,
+        "verified_creators": [
+            "actions",
+            "pnpm",
+            "testomatio",
+            "github",
+            "codecov",
+            "release-drafter"
+        ],
+        "unverified_creators": [
+            "cypress-io",
+            "andymckay",
+            "lycheeverse",
+            "EndBug",
+            "fregante",
+            "Dunning-Kruger",
+            "peter-evans"
+        ]
+    },
+    "metabase": {
+        "total_actions": 411,
+        "actions_with_commit_hash": 3,
+        "self_hosted_runners": 4,
+        "unverified_creator_actions": 184,
+        "verified_creators": [
+            "actions",
+            "codecov",
+            "slackapi",
+            "chromaui",
+            "sourcegraph",
+            "github",
+            "docker",
+            "aws-actions",
+            "snyk",
+            "aquasecurity"
+        ],
+        "unverified_creators": [
+            "tibdex",
+            ".",
+            "juliangruber",
+            "peter-evans",
+            "dorny",
+            "jesusvasquez333",
+            "octokit",
+            "regclient"
+        ]
+    },
+    "metasploit-framework": {
+        "total_actions": 48,
+        "actions_with_commit_hash": 1,
+        "self_hosted_runners": 0,
+        "unverified_creator_actions": 1,
+        "verified_creators": [
+            "actions",
+            "ruby"
+        ],
+        "unverified_creators": [
+            "shivammathur"
+        ]
+    },
+    "meteor": {
+        "total_actions": 17,
+        "actions_with_commit_hash": 0,
+        "self_hosted_runners": 0,
+        "unverified_creator_actions": 2,
+        "verified_creators": [
+            "actions"
+        ],
+        "unverified_creators": [
+            "nwtgck"
+        ]
+    },
+    "minikube": {
+        "total_actions": 244,
+        "actions_with_commit_hash": 244,
+        "self_hosted_runners": 1,
+        "unverified_creator_actions": 48,
+        "verified_creators": [
+            "actions",
+            "openvex"
+        ],
+        "unverified_creators": [
+            "peter-evans",
+            "spowelljr",
+            "kubernetes-sigs",
+            "ethomson",
+            "vedantmgoyal2009"
+        ]
+    },
+    "minio": {
+        "total_actions": 34,
+        "actions_with_commit_hash": 2,
+        "self_hosted_runners": 1,
+        "unverified_creator_actions": 3,
+        "verified_creators": [
+            "actions",
+            "docker",
+            "azure"
+        ],
+        "unverified_creators": [
+            "dessant",
+            "luizm",
+            "crate-ci"
+        ]
+    },
+    "mitmproxy": {
+        "total_actions": 38,
+        "actions_with_commit_hash": 5,
+        "self_hosted_runners": 0,
+        "unverified_creator_actions": 3,
+        "verified_creators": [
+            "actions",
+            "autofix-ci",
+            "codecov",
+            "docker"
+        ],
+        "unverified_creators": [
+            "install-pinned",
+            "mhils",
+            "apple-actions"
+        ]
+    },
+    "mmdetection": {
+        "total_actions": 2,
+        "actions_with_commit_hash": 0,
+        "self_hosted_runners": 0,
+        "unverified_creator_actions": 0,
+        "verified_creators": [
+            "actions"
+        ],
+        "unverified_creators": []
+    },
+    "mobx": {
+        "total_actions": 8,
+        "actions_with_commit_hash": 0,
+        "self_hosted_runners": 0,
+        "unverified_creator_actions": 1,
+        "verified_creators": [
+            "actions",
+            "coverallsapp"
+        ],
+        "unverified_creators": [
+            "changesets"
+        ]
+    },
+    "moby": {
+        "total_actions": 106,
+        "actions_with_commit_hash": 0,
+        "self_hosted_runners": 1,
+        "unverified_creator_actions": 10,
+        "verified_creators": [
+            "actions",
+            "docker",
+            "codecov"
+        ],
+        "unverified_creators": [
+            ".",
+            "crazy-max"
+        ]
+    },
+    "mocha": {
+        "total_actions": 26,
+        "actions_with_commit_hash": 0,
+        "self_hosted_runners": 0,
+        "unverified_creator_actions": 5,
+        "verified_creators": [
+            "actions",
+            "coverallsapp"
+        ],
+        "unverified_creators": [
+            "buildsville",
+            "mtfoley",
+            "Mattraks",
+            "jwalton",
+            "joelwmale"
+        ]
+    },
+    "models": {
+        "total_actions": 3,
+        "actions_with_commit_hash": 0,
+        "self_hosted_runners": 0,
+        "unverified_creator_actions": 0,
+        "verified_creators": [
+            "actions"
+        ],
+        "unverified_creators": []
+    },
+    "Modernizr": {
+        "total_actions": 2,
+        "actions_with_commit_hash": 0,
+        "self_hosted_runners": 0,
+        "unverified_creator_actions": 0,
+        "verified_creators": [
+            "actions"
+        ],
+        "unverified_creators": []
+    },
+    "moment": {
+        "total_actions": 2,
+        "actions_with_commit_hash": 0,
+        "self_hosted_runners": 0,
+        "unverified_creator_actions": 0,
+        "verified_creators": [
+            "actions"
+        ],
+        "unverified_creators": []
+    },
+    "monaco-editor": {
+        "total_actions": 13,
+        "actions_with_commit_hash": 1,
+        "self_hosted_runners": 0,
+        "unverified_creator_actions": 2,
+        "verified_creators": [
+            "actions"
+        ],
+        "unverified_creators": [
+            "."
+        ]
+    },
+    "mongoose": {
+        "total_actions": 31,
+        "actions_with_commit_hash": 23,
+        "self_hosted_runners": 0,
+        "unverified_creator_actions": 0,
+        "verified_creators": [
+            "actions",
+            "github",
+            "denoland",
+            "tidelift"
+        ],
+        "unverified_creators": []
+    },
+    "mpv": {
+        "total_actions": 16,
+        "actions_with_commit_hash": 0,
+        "self_hosted_runners": 0,
+        "unverified_creator_actions": 2,
+        "verified_creators": [
+            "actions",
+            "msys2"
+        ],
+        "unverified_creators": [
+            "cross-platform-actions"
+        ]
+    },
+    "n8n": {
+        "total_actions": 84,
+        "actions_with_commit_hash": 0,
+        "self_hosted_runners": 0,
+        "unverified_creator_actions": 13,
+        "verified_creators": [
+            "actions",
+            "n8n-io",
+            "chromaui",
+            "docker",
+            "pnpm",
+            "codecov"
+        ],
+        "unverified_creators": [
+            "act10ns",
+            "isbang",
+            "cypress-io",
+            "peter-evans",
+            "ncipollo"
+        ]
+    },
+    "nacos": {
+        "total_actions": 51,
+        "actions_with_commit_hash": 0,
+        "self_hosted_runners": 0,
+        "unverified_creator_actions": 0,
+        "verified_creators": [
+            "actions",
+            "codecov",
+            "docker",
+            "apache"
+        ],
+        "unverified_creators": []
+    },
+    "neovim": {
+        "total_actions": 53,
+        "actions_with_commit_hash": 0,
+        "self_hosted_runners": 1,
+        "unverified_creator_actions": 14,
+        "verified_creators": [
+            "actions",
+            "github",
+            "msys2"
+        ],
+        "unverified_creators": [
+            "korthout",
+            ".",
+            "docker:"
+        ]
+    },
+    "nest": {
+        "total_actions": 4,
+        "actions_with_commit_hash": 0,
+        "self_hosted_runners": 0,
+        "unverified_creator_actions": 0,
+        "verified_creators": [
+            "actions",
+            "github"
+        ],
+        "unverified_creators": []
+    },
+    "netdata": {
+        "total_actions": 206,
+        "actions_with_commit_hash": 0,
+        "self_hosted_runners": 0,
+        "unverified_creator_actions": 39,
+        "verified_creators": [
+            "actions",
+            "tj-actions",
+            "rtCamp",
+            "docker",
+            "google-github-actions",
+            "github"
+        ],
+        "unverified_creators": [
+            "nick-fields",
+            "Wandalen",
+            "ncipollo",
+            "shimataro",
+            "aurelien-baudet",
+            "peter-evans",
+            "benc-uk",
+            "GoTestTools",
+            "nick-invision",
+            "imjohnbo",
+            "heinrichreimer",
+            "reviewdog"
+        ]
+    },
+    "netty": {
+        "total_actions": 76,
+        "actions_with_commit_hash": 0,
+        "self_hosted_runners": 0,
+        "unverified_creator_actions": 12,
+        "verified_creators": [
+            "actions",
+            "s4u",
+            "scacap",
+            "github"
+        ],
+        "unverified_creators": [
+            ".",
+            "dawidd6",
+            "uraimo",
+            "shimataro"
+        ]
+    },
+    "NewPipe": {
+        "total_actions": 16,
+        "actions_with_commit_hash": 0,
+        "self_hosted_runners": 0,
+        "unverified_creator_actions": 3,
+        "verified_creators": [
+            "actions",
+            "gradle"
+        ],
+        "unverified_creators": [
+            "reactivecircus",
+            "lee-dohm",
+            "TeamNewPipe"
+        ]
+    },
+    "next-auth": {
+        "total_actions": 29,
+        "actions_with_commit_hash": 0,
+        "self_hosted_runners": 0,
+        "unverified_creator_actions": 7,
+        "verified_creators": [
+            "actions",
+            "github",
+            "pnpm",
+            "codecov"
+        ],
+        "unverified_creators": [
+            "mishkeTz",
+            ".",
+            "NejcZdovc",
+            "balazsorban44"
+        ]
+    },
+    "next.js": {
+        "total_actions": 98,
+        "actions_with_commit_hash": 0,
+        "self_hosted_runners": 6,
+        "unverified_creator_actions": 16,
+        "verified_creators": [
+            "actions",
+            "slackapi"
+        ],
+        "unverified_creators": [
+            ".",
+            "ijjk",
+            "taiki-e",
+            "styfle",
+            "dessant",
+            "SimenB",
+            "dtolnay",
+            "balazsorban44"
+        ]
+    },
+    "node": {
+        "total_actions": 95,
+        "actions_with_commit_hash": 95,
+        "self_hosted_runners": 0,
+        "unverified_creator_actions": 10,
+        "verified_creators": [
+            "actions",
+            "codecov",
+            "nodejs",
+            "rtCamp",
+            "step-security",
+            "ossf",
+            "github"
+        ],
+        "unverified_creators": [
+            "mhdawson",
+            "gr2m",
+            "mszostok"
+        ]
+    },
+    "nodemon": {
+        "total_actions": 6,
+        "actions_with_commit_hash": 0,
+        "self_hosted_runners": 0,
+        "unverified_creator_actions": 1,
+        "verified_creators": [
+            "actions"
+        ],
+        "unverified_creators": [
+            "agenthunt"
+        ]
+    },
+    "notepad-plus-plus": {
+        "total_actions": 14,
+        "actions_with_commit_hash": 0,
+        "self_hosted_runners": 0,
+        "unverified_creator_actions": 1,
+        "verified_creators": [
+            "actions",
+            "microsoft"
+        ],
+        "unverified_creators": [
+            "ilammy"
+        ]
+    },
+    "numpy": {
+        "total_actions": 99,
+        "actions_with_commit_hash": 91,
+        "self_hosted_runners": 3,
+        "unverified_creator_actions": 18,
+        "verified_creators": [
+            "actions",
+            "github",
+            "ossf",
+            "pypa"
+        ],
+        "unverified_creators": [
+            "larsoner",
+            "egor-tensin",
+            "mymindstorm",
+            "scientific-python",
+            "gerrymanoim",
+            ".",
+            "conda-incubator",
+            "maxim-lobanov",
+            "bus1",
+            "mamba-org"
+        ]
+    },
+    "nushell": {
+        "total_actions": 36,
+        "actions_with_commit_hash": 0,
+        "self_hosted_runners": 0,
+        "unverified_creator_actions": 23,
+        "verified_creators": [
+            "actions"
+        ],
+        "unverified_creators": [
+            "rustsec",
+            "actions-rust-lang",
+            "hustcer",
+            "JasonEtco",
+            "softprops",
+            "crate-ci",
+            "vedantmgoyal2009"
+        ]
+    },
+    "nuxt.js": {
+        "total_actions": 66,
+        "actions_with_commit_hash": 66,
+        "self_hosted_runners": 0,
+        "unverified_creator_actions": 6,
+        "verified_creators": [
+            "actions",
+            "autofix-ci",
+            "CodSpeedHQ",
+            "github",
+            "codecov",
+            "ossf"
+        ],
+        "unverified_creators": [
+            "lycheeverse",
+            "tibdex",
+            "peter-evans",
+            "octokit",
+            "Hebilicious",
+            "amannn"
+        ]
+    },
+    "nvm": {
+        "total_actions": 37,
+        "actions_with_commit_hash": 0,
+        "self_hosted_runners": 0,
+        "unverified_creator_actions": 11,
+        "verified_creators": [
+            "step-security",
+            "actions",
+            "Homebrew"
+        ],
+        "unverified_creators": [
+            "ljharb",
+            "Vampire"
+        ]
+    },
+    "nx": {
+        "total_actions": 74,
+        "actions_with_commit_hash": 0,
+        "self_hosted_runners": 1,
+        "unverified_creator_actions": 15,
+        "verified_creators": [
+            "actions",
+            "pnpm",
+            "slackapi"
+        ],
+        "unverified_creators": [
+            "mxschmitt",
+            "ravsamhq",
+            "dawidd6",
+            "dessant",
+            "dtolnay",
+            "goto-bus-stop",
+            "addnab",
+            "cross-platform-actions"
+        ]
+    },
+    "obs-studio": {
+        "total_actions": 102,
+        "actions_with_commit_hash": 9,
+        "self_hosted_runners": 0,
+        "unverified_creator_actions": 49,
+        "verified_creators": [
+            "actions",
+            "obsproject",
+            "Homebrew"
+        ],
+        "unverified_creators": [
+            ".",
+            "flathub-infra",
+            "cloudflare",
+            "softprops"
+        ]
+    },
+    "ohmyzsh": {
+        "total_actions": 6,
+        "actions_with_commit_hash": 0,
+        "self_hosted_runners": 0,
+        "unverified_creator_actions": 0,
+        "verified_creators": [
+            "actions",
+            "ohmyzsh"
+        ],
+        "unverified_creators": []
+    },
+    "okhttp": {
+        "total_actions": 91,
+        "actions_with_commit_hash": 0,
+        "self_hosted_runners": 0,
+        "unverified_creator_actions": 8,
+        "verified_creators": [
+            "actions",
+            "gradle"
+        ],
+        "unverified_creators": [
+            "rinchsan",
+            "mikepenz",
+            "EnricoMi",
+            "reactivecircus"
+        ]
+    },
+    "open-source-ios-apps": {
+        "total_actions": 2,
+        "actions_with_commit_hash": 0,
+        "self_hosted_runners": 0,
+        "unverified_creator_actions": 0,
+        "verified_creators": [
+            "actions",
+            "ruby"
+        ],
+        "unverified_creators": []
+    },
+    "OpenAPI-Specification": {
+        "total_actions": 13,
+        "actions_with_commit_hash": 0,
+        "self_hosted_runners": 0,
+        "unverified_creator_actions": 2,
+        "verified_creators": [
+            "actions"
+        ],
+        "unverified_creators": [
+            "peter-evans"
+        ]
+    },
+    "opencv": {
+        "total_actions": 3,
+        "actions_with_commit_hash": 0,
+        "self_hosted_runners": 1,
+        "unverified_creator_actions": 0,
+        "verified_creators": [
+            "actions"
+        ],
+        "unverified_creators": []
+    },
+    "openpilot": {
+        "total_actions": 68,
+        "actions_with_commit_hash": 8,
+        "self_hosted_runners": 1,
+        "unverified_creator_actions": 30,
+        "verified_creators": [
+            "actions",
+            "codecov"
+        ],
+        "unverified_creators": [
+            "Vankka",
+            "thollander",
+            ".",
+            "lewagon",
+            "peter-evans"
+        ]
+    },
+    "openpose": {
+        "total_actions": 3,
+        "actions_with_commit_hash": 0,
+        "self_hosted_runners": 0,
+        "unverified_creator_actions": 1,
+        "verified_creators": [
+            "actions"
+        ],
+        "unverified_creators": [
+            "peaceiris"
+        ]
+    },
+    "openssl": {
+        "total_actions": 112,
+        "actions_with_commit_hash": 0,
+        "self_hosted_runners": 5,
+        "unverified_creator_actions": 15,
+        "verified_creators": [
+            "actions",
+            "coverallsapp",
+            "google",
+            "suisei-cn"
+        ],
+        "unverified_creators": [
+            "perl-actions",
+            "dtolnay",
+            "ilammy",
+            "cygwin"
+        ]
+    },
+    "openzeppelin-contracts": {
+        "total_actions": 55,
+        "actions_with_commit_hash": 0,
+        "self_hosted_runners": 0,
+        "unverified_creator_actions": 23,
+        "verified_creators": [
+            "actions",
+            "codecov"
+        ],
+        "unverified_creators": [
+            "docker:",
+            ".",
+            "crytic",
+            "codespell-project",
+            "changesets"
+        ]
+    },
+    "osquery": {
+        "total_actions": 58,
+        "actions_with_commit_hash": 0,
+        "self_hosted_runners": 0,
+        "unverified_creator_actions": 0,
+        "verified_creators": [
+            "aws-actions",
+            "actions",
+            "osquery"
+        ],
+        "unverified_creators": []
+    },
+    "outline": {
+        "total_actions": 8,
+        "actions_with_commit_hash": 0,
+        "self_hosted_runners": 0,
+        "unverified_creator_actions": 1,
+        "verified_creators": [
+            "actions",
+            "calibreapp",
+            "github"
+        ],
+        "unverified_creators": [
+            "peter-evans"
+        ]
+    },
+    "pandas": {
+        "total_actions": 52,
+        "actions_with_commit_hash": 0,
+        "self_hosted_runners": 2,
+        "unverified_creator_actions": 21,
+        "verified_creators": [
+            "actions",
+            "pre-commit",
+            "github",
+            "pypa"
+        ],
+        "unverified_creators": [
+            ".",
+            "pandas-dev",
+            "mamba-org"
+        ]
+    },
+    "pandoc": {
+        "total_actions": 33,
+        "actions_with_commit_hash": 0,
+        "self_hosted_runners": 0,
+        "unverified_creator_actions": 1,
+        "verified_creators": [
+            "actions"
+        ],
+        "unverified_creators": [
+            "cachix"
+        ]
+    },
+    "parcel": {
+        "total_actions": 78,
+        "actions_with_commit_hash": 0,
+        "self_hosted_runners": 0,
+        "unverified_creator_actions": 41,
+        "verified_creators": [
+            "actions"
+        ],
+        "unverified_creators": [
+            "dtolnay",
+            "parcel-bundler",
+            "Swatinem",
+            "bobheadxi",
+            "amondnet",
+            "bahmutov",
+            "actions-rs",
+            "addnab",
+            "DeMoorJasper"
+        ]
+    },
+    "pdf.js": {
+        "total_actions": 19,
+        "actions_with_commit_hash": 0,
+        "self_hosted_runners": 0,
+        "unverified_creator_actions": 0,
+        "verified_creators": [
+            "actions",
+            "github"
+        ],
+        "unverified_creators": []
+    },
+    "phantomjs": {
+        "total_actions": 6,
+        "actions_with_commit_hash": 0,
+        "self_hosted_runners": 3,
+        "unverified_creator_actions": 0,
+        "verified_creators": [
+            "actions"
+        ],
+        "unverified_creators": []
+    },
+    "photoprism": {
+        "total_actions": 3,
+        "actions_with_commit_hash": 0,
+        "self_hosted_runners": 0,
+        "unverified_creator_actions": 0,
+        "verified_creators": [
+            "actions",
+            "github"
+        ],
+        "unverified_creators": []
+    },
+    "php-src": {
+        "total_actions": 114,
+        "actions_with_commit_hash": 7,
+        "self_hosted_runners": 2,
+        "unverified_creator_actions": 85,
+        "verified_creators": [
+            "actions",
+            "sphinx-notes"
+        ],
+        "unverified_creators": [
+            "dwieeb",
+            ".",
+            "hendrikmuhs",
+            "actions-ecosystem"
+        ]
+    },
+    "pi-hole": {
+        "total_actions": 15,
+        "actions_with_commit_hash": 0,
+        "self_hosted_runners": 0,
+        "unverified_creator_actions": 3,
+        "verified_creators": [
+            "actions",
+            "github",
+            "psf"
+        ],
+        "unverified_creators": [
+            "eps1lon",
+            "codespell-project",
+            "editorconfig-checker"
+        ]
+    },
+    "pipenv": {
+        "total_actions": 14,
+        "actions_with_commit_hash": 0,
+        "self_hosted_runners": 1,
+        "unverified_creator_actions": 2,
+        "verified_creators": [
+            "actions",
+            "pypa"
+        ],
+        "unverified_creators": [
+            "ncipollo",
+            "ad-m"
+        ]
+    },
+    "pixi.js": {
+        "total_actions": 16,
+        "actions_with_commit_hash": 0,
+        "self_hosted_runners": 0,
+        "unverified_creator_actions": 12,
+        "verified_creators": [
+            "actions"
+        ],
+        "unverified_creators": [
+            ".",
+            "jakejarvis",
+            "softprops"
+        ]
+    },
+    "playwright": {
+        "total_actions": 155,
+        "actions_with_commit_hash": 0,
+        "self_hosted_runners": 0,
+        "unverified_creator_actions": 36,
+        "verified_creators": [
+            "actions",
+            "azure",
+            "docker"
+        ],
+        "unverified_creators": [
+            "."
+        ]
+    },
+    "pm2": {
+        "total_actions": 3,
+        "actions_with_commit_hash": 0,
+        "self_hosted_runners": 0,
+        "unverified_creator_actions": 0,
+        "verified_creators": [
+            "actions",
+            "oven-sh"
+        ],
+        "unverified_creators": []
+    },
+    "pnpm": {
+        "total_actions": 14,
+        "actions_with_commit_hash": 0,
+        "self_hosted_runners": 0,
+        "unverified_creator_actions": 4,
+        "verified_creators": [
+            "actions",
+            "pnpm",
+            "github"
+        ],
+        "unverified_creators": [
+            "softprops",
+            "vedantmgoyal2009",
+            "bluwy",
+            "cbrgm"
+        ]
+    },
+    "podman": {
+        "total_actions": 28,
+        "actions_with_commit_hash": 6,
+        "self_hosted_runners": 0,
+        "unverified_creator_actions": 6,
+        "verified_creators": [
+            "actions",
+            "redhat-actions",
+            "github"
+        ],
+        "unverified_creators": [
+            "dawidd6",
+            "dessant",
+            "tzkhan"
+        ]
+    },
+    "poetry": {
+        "total_actions": 36,
+        "actions_with_commit_hash": 24,
+        "self_hosted_runners": 1,
+        "unverified_creator_actions": 17,
+        "verified_creators": [
+            "actions",
+            "pypa"
+        ],
+        "unverified_creators": [
+            ".",
+            "peaceiris",
+            "amondnet",
+            "dessant",
+            "dorny"
+        ]
+    },
+    "popper-core": {
+        "total_actions": 23,
+        "actions_with_commit_hash": 0,
+        "self_hosted_runners": 0,
+        "unverified_creator_actions": 14,
+        "verified_creators": [
+            "actions",
+            "CultureHQ"
+        ],
+        "unverified_creators": [
+            ".",
+            "changesets",
+            "EndBug"
+        ]
+    },
+    "portainer": {
+        "total_actions": 59,
+        "actions_with_commit_hash": 0,
+        "self_hosted_runners": 0,
+        "unverified_creator_actions": 5,
+        "verified_creators": [
+            "actions",
+            "docker",
+            "wearerequired",
+            "golangci",
+            "snyk",
+            "slackapi"
+        ],
+        "unverified_creators": [
+            "mschilde",
+            "icrawl",
+            "docker:",
+            "cirrus-actions"
+        ]
+    },
+    "postcss": {
+        "total_actions": 14,
+        "actions_with_commit_hash": 0,
+        "self_hosted_runners": 0,
+        "unverified_creator_actions": 1,
+        "verified_creators": [
+            "actions",
+            "pnpm"
+        ],
+        "unverified_creators": [
+            "softprops"
+        ]
+    },
+    "postgrest": {
+        "total_actions": 52,
+        "actions_with_commit_hash": 35,
+        "self_hosted_runners": 0,
+        "unverified_creator_actions": 19,
+        "verified_creators": [
+            "actions",
+            "codecov"
+        ],
+        "unverified_creators": [
+            ".",
+            "appleboy",
+            "nicklasfrahm",
+            "LouisBrunner",
+            "WyriHaximus"
+        ]
+    },
+    "PowerShell": {
+        "total_actions": 16,
+        "actions_with_commit_hash": 0,
+        "self_hosted_runners": 0,
+        "unverified_creator_actions": 8,
+        "verified_creators": [
+            "actions",
+            "github"
+        ],
+        "unverified_creators": [
+            "wow-actions",
+            "agrc",
+            "gaurav-nelson",
+            "super-linter",
+            "skitionek",
+            "cirrus-actions"
+        ]
+    },
+    "PowerToys": {
+        "total_actions": 8,
+        "actions_with_commit_hash": 0,
+        "self_hosted_runners": 0,
+        "unverified_creator_actions": 1,
+        "verified_creators": [
+            "microsoft",
+            "check-spelling"
+        ],
+        "unverified_creators": [
+            "craigloewen-msft"
+        ]
+    },
+    "prettier": {
+        "total_actions": 38,
+        "actions_with_commit_hash": 0,
+        "self_hosted_runners": 0,
+        "unverified_creator_actions": 5,
+        "verified_creators": [
+            "actions",
+            "preactjs",
+            "github",
+            "codecov"
+        ],
+        "unverified_creators": [
+            "dessant",
+            "actions-cool",
+            "lee-dohm",
+            "xalvarez"
+        ]
+    },
+    "prisma": {
+        "total_actions": 140,
+        "actions_with_commit_hash": 0,
+        "self_hosted_runners": 0,
+        "unverified_creator_actions": 54,
+        "verified_creators": [
+            "actions",
+            "CodSpeedHQ",
+            "rtCamp",
+            "github",
+            "codecov",
+            "buildpulse",
+            "pnpm"
+        ],
+        "unverified_creators": [
+            ".",
+            "rhysd",
+            "dtolnay",
+            "andresz1",
+            "pantharshit00",
+            "docker:",
+            "nick-fields",
+            "peter-evans",
+            "Ana06",
+            "benc-uk",
+            "juliangruber"
+        ]
+    },
+    "prometheus": {
+        "total_actions": 65,
+        "actions_with_commit_hash": 50,
+        "self_hosted_runners": 0,
+        "unverified_creator_actions": 17,
+        "verified_creators": [
+            "actions",
+            "bufbuild",
+            "prometheus",
+            "golangci",
+            "github",
+            "google",
+            "ossf"
+        ],
+        "unverified_creators": [
+            ".",
+            "christian-korneck",
+            "docker:",
+            "dessant"
+        ]
+    },
+    "protobuf": {
+        "total_actions": 131,
+        "actions_with_commit_hash": 24,
+        "self_hosted_runners": 3,
+        "unverified_creator_actions": 106,
+        "verified_creators": [
+            "actions",
+            "ossf",
+            "github",
+            "ruby"
+        ],
+        "unverified_creators": [
+            "protocolbuffers",
+            "ilammy",
+            "googleapis",
+            "shivammathur",
+            "actions-ecosystem"
+        ]
+    },
+    "public-apis": {
+        "total_actions": 6,
+        "actions_with_commit_hash": 0,
+        "self_hosted_runners": 0,
+        "unverified_creator_actions": 0,
+        "verified_creators": [
+            "actions"
+        ],
+        "unverified_creators": []
+    },
+    "pug": {
+        "total_actions": 10,
+        "actions_with_commit_hash": 0,
+        "self_hosted_runners": 0,
+        "unverified_creator_actions": 0,
+        "verified_creators": [
+            "actions"
+        ],
+        "unverified_creators": []
+    },
+    "puppeteer": {
+        "total_actions": 91,
+        "actions_with_commit_hash": 91,
+        "self_hosted_runners": 2,
+        "unverified_creator_actions": 10,
+        "verified_creators": [
+            "actions",
+            "google",
+            "docker",
+            "ossf",
+            "github"
+        ],
+        "unverified_creators": [
+            "dorny",
+            "peaceiris",
+            "peter-evans"
+        ]
+    },
+    "pyenv": {
+        "total_actions": 7,
+        "actions_with_commit_hash": 0,
+        "self_hosted_runners": 0,
+        "unverified_creator_actions": 1,
+        "verified_creators": [
+            "actions"
+        ],
+        "unverified_creators": [
+            "lee-dohm"
+        ]
+    },
+    "Python": {
+        "total_actions": 10,
+        "actions_with_commit_hash": 0,
+        "self_hosted_runners": 0,
+        "unverified_creator_actions": 0,
+        "verified_creators": [
+            "actions"
+        ],
+        "unverified_creators": []
+    },
+    "python-telegram-bot": {
+        "total_actions": 24,
+        "actions_with_commit_hash": 0,
+        "self_hosted_runners": 0,
+        "unverified_creator_actions": 7,
+        "verified_creators": [
+            "dependabot",
+            "actions",
+            "test-summary",
+            "codecov"
+        ],
+        "unverified_creators": [
+            "jacobtomlinson",
+            "EndBug",
+            "srvaroa",
+            "dessant",
+            "Poolitzer",
+            "jannekem"
+        ]
+    },
+    "pytorch": {
+        "total_actions": 763,
+        "actions_with_commit_hash": 7,
+        "self_hosted_runners": 41,
+        "unverified_creator_actions": 379,
+        "verified_creators": [
+            "actions",
+            "pytorch",
+            "aws-actions",
+            "docker",
+            "ossf",
+            "github",
+            "ruby"
+        ],
+        "unverified_creators": [
+            "necojackarc",
+            ".",
+            "malfet",
+            "softprops",
+            "nick-fields",
+            "conda-incubator",
+            "seemethere",
+            "octokit",
+            "reactivecircus"
+        ]
+    },
+    "pytorch-lightning": {
+        "total_actions": 106,
+        "actions_with_commit_hash": 0,
+        "self_hosted_runners": 4,
+        "unverified_creator_actions": 22,
+        "verified_creators": [
+            "actions",
+            "codecov",
+            "readthedocs",
+            "docker",
+            "google-github-actions"
+        ],
+        "unverified_creators": [
+            ".",
+            "ravsamhq",
+            "peter-evans",
+            "stefanbuck",
+            "redhat-plumbers-in-action",
+            "Lightning-AI",
+            "AButler"
+        ]
+    },
+    "qBittorrent": {
+        "total_actions": 30,
+        "actions_with_commit_hash": 0,
+        "self_hosted_runners": 0,
+        "unverified_creator_actions": 8,
+        "verified_creators": [
+            "actions",
+            "pre-commit",
+            "github"
+        ],
+        "unverified_creators": [
+            "Wandalen",
+            "Chocobo1",
+            "jurplel",
+            "ilammy"
+        ]
+    },
+    "quasar": {
+        "total_actions": 44,
+        "actions_with_commit_hash": 0,
+        "self_hosted_runners": 0,
+        "unverified_creator_actions": 5,
+        "verified_creators": [
+            "actions",
+            "pnpm"
+        ],
+        "unverified_creators": [
+            "marocchino",
+            "stefanbuck",
+            "stefanzweifel",
+            "EnricoMi",
+            "cypress-io"
+        ]
+    },
+    "quill": {
+        "total_actions": 9,
+        "actions_with_commit_hash": 0,
+        "self_hosted_runners": 0,
+        "unverified_creator_actions": 0,
+        "verified_creators": [
+            "actions"
+        ],
+        "unverified_creators": []
+    },
+    "rails": {
+        "total_actions": 11,
+        "actions_with_commit_hash": 0,
+        "self_hosted_runners": 0,
+        "unverified_creator_actions": 3,
+        "verified_creators": [
+            "actions",
+            "ruby"
+        ],
+        "unverified_creators": [
+            "zzak"
+        ]
+    },
+    "ramda": {
+        "total_actions": 4,
+        "actions_with_commit_hash": 0,
+        "self_hosted_runners": 0,
+        "unverified_creator_actions": 2,
+        "verified_creators": [
+            "actions"
+        ],
+        "unverified_creators": [
+            "peter-evans"
+        ]
+    },
+    "rancher": {
+        "total_actions": 10,
+        "actions_with_commit_hash": 0,
+        "self_hosted_runners": 0,
+        "unverified_creator_actions": 0,
+        "verified_creators": [
+            "actions"
+        ],
+        "unverified_creators": []
+    },
+    "ray": {
+        "total_actions": 2,
+        "actions_with_commit_hash": 0,
+        "self_hosted_runners": 0,
+        "unverified_creator_actions": 0,
+        "verified_creators": [
+            "actions"
+        ],
+        "unverified_creators": []
+    },
+    "rclone": {
+        "total_actions": 20,
+        "actions_with_commit_hash": 0,
+        "self_hosted_runners": 0,
+        "unverified_creator_actions": 2,
+        "verified_creators": [
+            "actions",
+            "golangci",
+            "docker"
+        ],
+        "unverified_creators": [
+            "ilteoood",
+            "vedantmgoyal2009"
+        ]
+    },
+    "react": {
+        "total_actions": 14,
+        "actions_with_commit_hash": 0,
+        "self_hosted_runners": 0,
+        "unverified_creator_actions": 2,
+        "verified_creators": [
+            "actions"
+        ],
+        "unverified_creators": [
+            "stefanzweifel"
+        ]
+    },
+    "react-admin": {
+        "total_actions": 24,
+        "actions_with_commit_hash": 0,
+        "self_hosted_runners": 0,
+        "unverified_creator_actions": 5,
+        "verified_creators": [
+            "actions",
+            "github",
+            "marmelab"
+        ],
+        "unverified_creators": [
+            "bahmutov"
+        ]
+    },
+    "react-bootstrap": {
+        "total_actions": 3,
+        "actions_with_commit_hash": 0,
+        "self_hosted_runners": 1,
+        "unverified_creator_actions": 0,
+        "verified_creators": [
+            "actions",
+            "codecov"
+        ],
+        "unverified_creators": []
+    },
+    "react-hook-form": {
+        "total_actions": 18,
+        "actions_with_commit_hash": 0,
+        "self_hosted_runners": 0,
+        "unverified_creator_actions": 7,
+        "verified_creators": [
+            "actions",
+            "github",
+            "preactjs",
+            "denoland"
+        ],
+        "unverified_creators": [
+            ".",
+            "cypress-io",
+            "dessant",
+            "EndBug"
+        ]
+    },
+    "react-native": {
+        "total_actions": 35,
+        "actions_with_commit_hash": 0,
+        "self_hosted_runners": 1,
+        "unverified_creator_actions": 7,
+        "verified_creators": [
+            "actions",
+            "ruby"
+        ],
+        "unverified_creators": [
+            "react-native-community",
+            "cirrus-actions",
+            "."
+        ]
+    },
+    "react-native-elements": {
+        "total_actions": 35,
+        "actions_with_commit_hash": 0,
+        "self_hosted_runners": 0,
+        "unverified_creator_actions": 15,
+        "verified_creators": [
+            "actions",
+            "expo"
+        ],
+        "unverified_creators": [
+            ".",
+            "peaceiris",
+            "peter-evans"
+        ]
+    },
+    "react-native-web": {
+        "total_actions": 14,
+        "actions_with_commit_hash": 0,
+        "self_hosted_runners": 0,
+        "unverified_creator_actions": 2,
+        "verified_creators": [
+            "actions"
+        ],
+        "unverified_creators": [
+            "dessant",
+            "necolas"
+        ]
+    },
+    "react-navigation": {
+        "total_actions": 41,
+        "actions_with_commit_hash": 1,
+        "self_hosted_runners": 0,
+        "unverified_creator_actions": 11,
+        "verified_creators": [
+            "actions",
+            "autofix-ci",
+            "codecov",
+            "expo"
+        ],
+        "unverified_creators": [
+            ".",
+            "cirrus-actions",
+            "react-navigation"
+        ]
+    },
+    "react-query": {
+        "total_actions": 10,
+        "actions_with_commit_hash": 0,
+        "self_hosted_runners": 0,
+        "unverified_creator_actions": 0,
+        "verified_creators": [
+            "actions",
+            "pnpm",
+            "codecov",
+            "nrwl"
+        ],
+        "unverified_creators": []
+    },
+    "react-redux": {
+        "total_actions": 18,
+        "actions_with_commit_hash": 0,
+        "self_hosted_runners": 0,
+        "unverified_creator_actions": 0,
+        "verified_creators": [
+            "actions",
+            "preactjs"
+        ],
+        "unverified_creators": []
+    },
+    "react-router": {
+        "total_actions": 17,
+        "actions_with_commit_hash": 0,
+        "self_hosted_runners": 0,
+        "unverified_creator_actions": 2,
+        "verified_creators": [
+            "actions",
+            "remix-run"
+        ],
+        "unverified_creators": [
+            "changesets",
+            "dessant"
+        ]
+    },
+    "react-select": {
+        "total_actions": 3,
+        "actions_with_commit_hash": 0,
+        "self_hosted_runners": 0,
+        "unverified_creator_actions": 1,
+        "verified_creators": [
+            "actions"
+        ],
+        "unverified_creators": [
+            "changesets"
+        ]
+    },
+    "react-table": {
+        "total_actions": 7,
+        "actions_with_commit_hash": 0,
+        "self_hosted_runners": 0,
+        "unverified_creator_actions": 0,
+        "verified_creators": [
+            "actions",
+            "pnpm",
+            "nrwl"
+        ],
+        "unverified_creators": []
+    },
+    "react-use": {
+        "total_actions": 8,
+        "actions_with_commit_hash": 0,
+        "self_hosted_runners": 0,
+        "unverified_creator_actions": 0,
+        "verified_creators": [
+            "actions"
+        ],
+        "unverified_creators": []
+    },
+    "recharts": {
+        "total_actions": 16,
+        "actions_with_commit_hash": 0,
+        "self_hosted_runners": 0,
+        "unverified_creator_actions": 0,
+        "verified_creators": [
+            "actions",
+            "chromaui",
+            "codecov",
+            "github"
+        ],
+        "unverified_creators": []
+    },
+    "redash": {
+        "total_actions": 26,
+        "actions_with_commit_hash": 0,
+        "self_hosted_runners": 0,
+        "unverified_creator_actions": 1,
+        "verified_creators": [
+            "actions",
+            "codecov",
+            "docker"
+        ],
+        "unverified_creators": [
+            "dawidd6"
+        ]
+    },
+    "redis": {
+        "total_actions": 51,
+        "actions_with_commit_hash": 0,
+        "self_hosted_runners": 0,
+        "unverified_creator_actions": 3,
+        "verified_creators": [
+            "actions",
+            "github"
+        ],
+        "unverified_creators": [
+            "maxim-lobanov",
+            "cross-platform-actions",
+            "py-actions"
+        ]
+    },
+    "RedisDesktopManager": {
+        "total_actions": 7,
+        "actions_with_commit_hash": 0,
+        "self_hosted_runners": 0,
+        "unverified_creator_actions": 3,
+        "verified_creators": [
+            "actions"
+        ],
+        "unverified_creators": [
+            "jurplel",
+            "zhulik"
+        ]
+    },
+    "redisson": {
+        "total_actions": 9,
+        "actions_with_commit_hash": 0,
+        "self_hosted_runners": 0,
+        "unverified_creator_actions": 0,
+        "verified_creators": [
+            "actions",
+            "github"
+        ],
+        "unverified_creators": []
+    },
+    "redoc": {
+        "total_actions": 32,
+        "actions_with_commit_hash": 0,
+        "self_hosted_runners": 0,
+        "unverified_creator_actions": 4,
+        "verified_creators": [
+            "actions",
+            "errata-ai",
+            "docker",
+            "aws-actions"
+        ],
+        "unverified_creators": [
+            "DavidAnson",
+            "becheran",
+            "crazy-max",
+            "Redocly"
+        ]
+    },
+    "redux": {
+        "total_actions": 21,
+        "actions_with_commit_hash": 0,
+        "self_hosted_runners": 0,
+        "unverified_creator_actions": 1,
+        "verified_creators": [
+            "actions",
+            "preactjs"
+        ],
+        "unverified_creators": [
+            "dorny"
+        ]
+    },
+    "redux-saga": {
+        "total_actions": 10,
+        "actions_with_commit_hash": 0,
+        "self_hosted_runners": 0,
+        "unverified_creator_actions": 2,
+        "verified_creators": [
+            "actions",
+            "preactjs"
+        ],
+        "unverified_creators": [
+            "peaceiris",
+            "changesets"
+        ]
+    },
+    "refined-github": {
+        "total_actions": 27,
+        "actions_with_commit_hash": 0,
+        "self_hosted_runners": 0,
+        "unverified_creator_actions": 4,
+        "verified_creators": [
+            "actions",
+            "tj-actions",
+            "relative-ci"
+        ],
+        "unverified_creators": [
+            "peter-evans",
+            "fregante",
+            "maxim-lobanov"
+        ]
+    },
+    "requests": {
+        "total_actions": 10,
+        "actions_with_commit_hash": 10,
+        "self_hosted_runners": 1,
+        "unverified_creator_actions": 1,
+        "verified_creators": [
+            "actions",
+            "github",
+            "pre-commit"
+        ],
+        "unverified_creators": [
+            "dessant"
+        ]
+    },
+    "restic": {
+        "total_actions": 19,
+        "actions_with_commit_hash": 6,
+        "self_hosted_runners": 0,
+        "unverified_creator_actions": 1,
+        "verified_creators": [
+            "actions",
+            "docker",
+            "golangci"
+        ],
+        "unverified_creators": [
+            "re-actors"
+        ]
+    },
+    "rethinkdb": {
+        "total_actions": 23,
+        "actions_with_commit_hash": 0,
+        "self_hosted_runners": 0,
+        "unverified_creator_actions": 7,
+        "verified_creators": [
+            "actions"
+        ],
+        "unverified_creators": [
+            "."
+        ]
+    },
+    "retrofit": {
+        "total_actions": 20,
+        "actions_with_commit_hash": 0,
+        "self_hosted_runners": 0,
+        "unverified_creator_actions": 4,
+        "verified_creators": [
+            "actions",
+            "gradle"
+        ],
+        "unverified_creators": [
+            "reactivecircus",
+            "ffurrer2",
+            "ncipollo",
+            "JamesIves"
+        ]
+    },
+    "reveal.js": {
+        "total_actions": 2,
+        "actions_with_commit_hash": 0,
+        "self_hosted_runners": 0,
+        "unverified_creator_actions": 0,
+        "verified_creators": [
+            "actions"
+        ],
+        "unverified_creators": []
+    },
+    "ripgrep": {
+        "total_actions": 11,
+        "actions_with_commit_hash": 0,
+        "self_hosted_runners": 0,
+        "unverified_creator_actions": 5,
+        "verified_creators": [
+            "actions"
+        ],
+        "unverified_creators": [
+            "dtolnay"
+        ]
+    },
+    "Rocket": {
+        "total_actions": 5,
+        "actions_with_commit_hash": 0,
+        "self_hosted_runners": 1,
+        "unverified_creator_actions": 3,
+        "verified_creators": [
+            "actions"
+        ],
+        "unverified_creators": [
+            "dtolnay",
+            "Swatinem"
+        ]
+    },
+    "Rocket.Chat": {
+        "total_actions": 68,
+        "actions_with_commit_hash": 0,
+        "self_hosted_runners": 0,
+        "unverified_creator_actions": 32,
+        "verified_creators": [
+            "actions",
+            "supercharge",
+            "cygnetdigital",
+            "codecov",
+            "docker",
+            "github",
+            "RocketChat"
+        ],
+        "unverified_creators": [
+            "pierotofy",
+            ".",
+            "dtinth",
+            "Bhacaz",
+            "peter-evans",
+            "thehanimo"
+        ]
+    },
+    "rocksdb": {
+        "total_actions": 168,
+        "actions_with_commit_hash": 0,
+        "self_hosted_runners": 0,
+        "unverified_creator_actions": 118,
+        "verified_creators": [
+            "actions"
+        ],
+        "unverified_creators": [
+            ".",
+            "maxim-lobanov"
+        ]
+    },
+    "rollup": {
+        "total_actions": 39,
+        "actions_with_commit_hash": 0,
+        "self_hosted_runners": 1,
+        "unverified_creator_actions": 12,
+        "verified_creators": [
+            "actions",
+            "codecov"
+        ],
+        "unverified_creators": [
+            "dtolnay",
+            "goto-bus-stop",
+            "addnab",
+            "uraimo",
+            "zdurham",
+            "peter-evans",
+            "patrickedqvist"
+        ]
+    },
+    "RSSHub": {
+        "total_actions": 81,
+        "actions_with_commit_hash": 0,
+        "self_hosted_runners": 0,
+        "unverified_creator_actions": 12,
+        "verified_creators": [
+            "actions",
+            "pnpm",
+            "github",
+            "sigstore",
+            "docker",
+            "codecov",
+            "fastify"
+        ],
+        "unverified_creators": [
+            "peaceiris",
+            "thollander",
+            "peter-evans",
+            "potiuk",
+            "octokit",
+            "dawidd6",
+            "actions-cool",
+            "cirrus-actions",
+            "bdougie",
+            "amannn"
+        ]
+    },
+    "ruby": {
+        "total_actions": 100,
+        "actions_with_commit_hash": 49,
+        "self_hosted_runners": 4,
+        "unverified_creator_actions": 54,
+        "verified_creators": [
+            "actions",
+            "ruby",
+            "github",
+            "advanced-security",
+            "dependabot",
+            "ossf",
+            "msys2"
+        ],
+        "unverified_creators": [
+            ".",
+            "necojackarc",
+            "gacts",
+            "lewagon"
+        ]
+    },
+    "rust": {
+        "total_actions": 16,
+        "actions_with_commit_hash": 0,
+        "self_hosted_runners": 0,
+        "unverified_creator_actions": 0,
+        "verified_creators": [
+            "msys2",
+            "actions"
+        ],
+        "unverified_creators": []
+    },
+    "rustlings": {
+        "total_actions": 10,
+        "actions_with_commit_hash": 0,
+        "self_hosted_runners": 1,
+        "unverified_creator_actions": 7,
+        "verified_creators": [
+            "actions"
+        ],
+        "unverified_creators": [
+            "dtolnay",
+            "DavidAnson",
+            "swatinem",
+            "JamesIves"
+        ]
+    },
+    "RxJava": {
+        "total_actions": 25,
+        "actions_with_commit_hash": 25,
+        "self_hosted_runners": 0,
+        "unverified_creator_actions": 0,
+        "verified_creators": [
+            "actions",
+            "gradle",
+            "codecov",
+            "ossf",
+            "github"
+        ],
+        "unverified_creators": []
+    },
+    "rxjs": {
+        "total_actions": 8,
+        "actions_with_commit_hash": 0,
+        "self_hosted_runners": 0,
+        "unverified_creator_actions": 4,
+        "verified_creators": [
+            "actions"
+        ],
+        "unverified_creators": [
+            ".",
+            "cirrus-actions"
+        ]
+    },
+    "RxSwift": {
+        "total_actions": 1,
+        "actions_with_commit_hash": 0,
+        "self_hosted_runners": 0,
+        "unverified_creator_actions": 0,
+        "verified_creators": [
+            "actions"
+        ],
+        "unverified_creators": []
+    },
+    "scikit-learn": {
+        "total_actions": 37,
+        "actions_with_commit_hash": 0,
+        "self_hosted_runners": 0,
+        "unverified_creator_actions": 5,
+        "verified_creators": [
+            "actions",
+            "github",
+            "pypa"
+        ],
+        "unverified_creators": [
+            "larsoner",
+            "andymckay",
+            "thomasjpfan",
+            "peter-evans"
+        ]
+    },
+    "scrapy": {
+        "total_actions": 13,
+        "actions_with_commit_hash": 0,
+        "self_hosted_runners": 0,
+        "unverified_creator_actions": 0,
+        "verified_creators": [
+            "actions",
+            "pre-commit",
+            "pypa"
+        ],
+        "unverified_creators": []
+    },
+    "SDWebImage": {
+        "total_actions": 4,
+        "actions_with_commit_hash": 0,
+        "self_hosted_runners": 0,
+        "unverified_creator_actions": 0,
+        "verified_creators": [
+            "actions"
+        ],
+        "unverified_creators": []
+    },
+    "seata": {
+        "total_actions": 25,
+        "actions_with_commit_hash": 2,
+        "self_hosted_runners": 1,
+        "unverified_creator_actions": 0,
+        "verified_creators": [
+            "actions",
+            "codecov",
+            "docker",
+            "github",
+            "apache"
+        ],
+        "unverified_creators": []
+    },
+    "select2": {
+        "total_actions": 13,
+        "actions_with_commit_hash": 0,
+        "self_hosted_runners": 0,
+        "unverified_creator_actions": 2,
+        "verified_creators": [
+            "actions"
+        ],
+        "unverified_creators": [
+            "maddox",
+            "maxheld83"
+        ]
+    },
+    "selenium": {
+        "total_actions": 50,
+        "actions_with_commit_hash": 1,
+        "self_hosted_runners": 1,
+        "unverified_creator_actions": 12,
+        "verified_creators": [
+            "actions",
+            "bazel-contrib",
+            "ruby"
+        ],
+        "unverified_creators": [
+            "browser-actions",
+            "abhi1693",
+            "mxschmitt",
+            "marvinpinto",
+            "softprops",
+            "peaceiris",
+            "dessant",
+            "ad-m",
+            "peter-evans"
+        ]
+    },
+    "Sentinel": {
+        "total_actions": 10,
+        "actions_with_commit_hash": 0,
+        "self_hosted_runners": 1,
+        "unverified_creator_actions": 0,
+        "verified_creators": [
+            "actions",
+            "codecov",
+            "github"
+        ],
+        "unverified_creators": []
+    },
+    "sentry": {
+        "total_actions": 136,
+        "actions_with_commit_hash": 111,
+        "self_hosted_runners": 0,
+        "unverified_creator_actions": 38,
+        "verified_creators": [
+            "actions",
+            "getsentry",
+            "codecov",
+            "github"
+        ],
+        "unverified_creators": [
+            "dorny",
+            ".",
+            "peter-evans",
+            "dessant",
+            "stefanzweifel"
+        ]
+    },
+    "sequelize": {
+        "total_actions": 44,
+        "actions_with_commit_hash": 42,
+        "self_hosted_runners": 0,
+        "unverified_creator_actions": 5,
+        "verified_creators": [
+            "actions",
+            "sequelize"
+        ],
+        "unverified_creators": [
+            "gr2m",
+            "sdepold",
+            "cardinalby",
+            "ethomson",
+            "amannn"
+        ]
+    },
+    "serenity": {
+        "total_actions": 66,
+        "actions_with_commit_hash": 2,
+        "self_hosted_runners": 1,
+        "unverified_creator_actions": 8,
+        "verified_creators": [
+            "actions",
+            "docker",
+            "devcontainers",
+            "github"
+        ],
+        "unverified_creators": [
+            "IdanHo",
+            "JamesIves",
+            "r-lib",
+            "mobiledevops",
+            "mymindstorm"
+        ]
+    },
+    "serverless": {
+        "total_actions": 40,
+        "actions_with_commit_hash": 0,
+        "self_hosted_runners": 0,
+        "unverified_creator_actions": 0,
+        "verified_creators": [
+            "actions"
+        ],
+        "unverified_creators": []
+    },
+    "servo": {
+        "total_actions": 72,
+        "actions_with_commit_hash": 0,
+        "self_hosted_runners": 1,
+        "unverified_creator_actions": 16,
+        "verified_creators": [
+            "actions",
+            "dependabot"
+        ],
+        "unverified_creators": [
+            "mozilla-actions",
+            "baptiste0928",
+            "android-actions",
+            "nttld",
+            "nick-fields",
+            "ad-m",
+            "hendrikmuhs"
+        ]
+    },
+    "shadowsocks-windows": {
+        "total_actions": 13,
+        "actions_with_commit_hash": 0,
+        "self_hosted_runners": 0,
+        "unverified_creator_actions": 3,
+        "verified_creators": [
+            "actions"
+        ],
+        "unverified_creators": [
+            "svenstaro"
+        ]
+    },
+    "shap": {
+        "total_actions": 29,
+        "actions_with_commit_hash": 0,
+        "self_hosted_runners": 0,
+        "unverified_creator_actions": 2,
+        "verified_creators": [
+            "actions",
+            "docker",
+            "pypa",
+            "github",
+            "codecov"
+        ],
+        "unverified_creators": [
+            "jlumbroso"
+        ]
+    },
+    "ShareX": {
+        "total_actions": 19,
+        "actions_with_commit_hash": 2,
+        "self_hosted_runners": 0,
+        "unverified_creator_actions": 2,
+        "verified_creators": [
+            "actions",
+            "microsoft"
+        ],
+        "unverified_creators": [
+            "softprops"
+        ]
+    },
+    "sharp": {
+        "total_actions": 14,
+        "actions_with_commit_hash": 0,
+        "self_hosted_runners": 0,
+        "unverified_creator_actions": 3,
+        "verified_creators": [
+            "actions",
+            "pnpm",
+            "denoland",
+            "oven-sh"
+        ],
+        "unverified_creators": [
+            "uraimo",
+            "DamianReeves"
+        ]
+    },
+    "shellcheck": {
+        "total_actions": 10,
+        "actions_with_commit_hash": 0,
+        "self_hosted_runners": 0,
+        "unverified_creator_actions": 0,
+        "verified_creators": [
+            "actions"
+        ],
+        "unverified_creators": []
+    },
+    "shields": {
+        "total_actions": 71,
+        "actions_with_commit_hash": 0,
+        "self_hosted_runners": 0,
+        "unverified_creator_actions": 29,
+        "verified_creators": [
+            "actions",
+            "docker",
+            "superfly"
+        ],
+        "unverified_creators": [
+            "tvdias",
+            ".",
+            "JamesIves",
+            "peter-evans"
+        ]
+    },
+    "Signal-Android": {
+        "total_actions": 14,
+        "actions_with_commit_hash": 0,
+        "self_hosted_runners": 2,
+        "unverified_creator_actions": 3,
+        "verified_creators": [
+            "actions",
+            "gradle"
+        ],
+        "unverified_creators": [
+            "usefulness",
+            "peter-evans"
+        ]
+    },
+    "skywalking": {
+        "total_actions": 56,
+        "actions_with_commit_hash": 4,
+        "self_hosted_runners": 1,
+        "unverified_creator_actions": 0,
+        "verified_creators": [
+            "actions",
+            "github",
+            "docker",
+            "apache",
+            "tj-actions"
+        ],
+        "unverified_creators": []
+    },
+    "slate": {
+        "total_actions": 14,
+        "actions_with_commit_hash": 0,
+        "self_hosted_runners": 0,
+        "unverified_creator_actions": 3,
+        "verified_creators": [
+            "actions",
+            "github"
+        ],
+        "unverified_creators": [
+            "cirrus-actions",
+            "peter-evans",
+            "changesets"
+        ]
+    },
+    "socket.io": {
+        "total_actions": 4,
+        "actions_with_commit_hash": 0,
+        "self_hosted_runners": 0,
+        "unverified_creator_actions": 0,
+        "verified_creators": [
+            "actions"
+        ],
+        "unverified_creators": []
+    },
+    "solidity": {
+        "total_actions": 3,
+        "actions_with_commit_hash": 1,
+        "self_hosted_runners": 0,
+        "unverified_creator_actions": 0,
+        "verified_creators": [
+            "actions",
+            "unsplash"
+        ],
+        "unverified_creators": []
+    },
+    "spacemacs": {
+        "total_actions": 10,
+        "actions_with_commit_hash": 0,
+        "self_hosted_runners": 0,
+        "unverified_creator_actions": 7,
+        "verified_creators": [
+            "actions"
+        ],
+        "unverified_creators": [
+            "purcell",
+            "jcs090218",
+            "cirrus-actions"
+        ]
+    },
+    "spaCy": {
+        "total_actions": 15,
+        "actions_with_commit_hash": 0,
+        "self_hosted_runners": 0,
+        "unverified_creator_actions": 2,
+        "verified_creators": [
+            "actions",
+            "buildkite"
+        ],
+        "unverified_creators": [
+            "tiangolo",
+            "dessant"
+        ]
+    },
+    "spark": {
+        "total_actions": 102,
+        "actions_with_commit_hash": 4,
+        "self_hosted_runners": 1,
+        "unverified_creator_actions": 3,
+        "verified_creators": [
+            "actions",
+            "docker",
+            "codecov",
+            "bufbuild",
+            "scacap"
+        ],
+        "unverified_creators": [
+            "r-lib",
+            "potiuk",
+            "dawidd6"
+        ]
+    },
+    "spdlog": {
+        "total_actions": 2,
+        "actions_with_commit_hash": 0,
+        "self_hosted_runners": 1,
+        "unverified_creator_actions": 0,
+        "verified_creators": [
+            "actions"
+        ],
+        "unverified_creators": []
+    },
+    "spring-boot": {
+        "total_actions": 24,
+        "actions_with_commit_hash": 8,
+        "self_hosted_runners": 3,
+        "unverified_creator_actions": 4,
+        "verified_creators": [
+            "actions",
+            "gradle",
+            "spring-io"
+        ],
+        "unverified_creators": [
+            "."
+        ]
+    },
+    "spring-cloud-alibaba": {
+        "total_actions": 9,
+        "actions_with_commit_hash": 0,
+        "self_hosted_runners": 0,
+        "unverified_creator_actions": 0,
+        "verified_creators": [
+            "actions",
+            "docker"
+        ],
+        "unverified_creators": []
+    },
+    "spring-framework": {
+        "total_actions": 20,
+        "actions_with_commit_hash": 5,
+        "self_hosted_runners": 1,
+        "unverified_creator_actions": 3,
+        "verified_creators": [
+            "actions",
+            "gradle",
+            "spring-io"
+        ],
+        "unverified_creators": [
+            "."
+        ]
+    },
+    "sqlmap": {
+        "total_actions": 2,
+        "actions_with_commit_hash": 0,
+        "self_hosted_runners": 0,
+        "unverified_creator_actions": 0,
+        "verified_creators": [
+            "actions"
+        ],
+        "unverified_creators": []
+    },
+    "standard": {
+        "total_actions": 8,
+        "actions_with_commit_hash": 0,
+        "self_hosted_runners": 0,
+        "unverified_creator_actions": 0,
+        "verified_creators": [
+            "actions"
+        ],
+        "unverified_creators": []
+    },
+    "starship": {
+        "total_actions": 58,
+        "actions_with_commit_hash": 1,
+        "self_hosted_runners": 1,
+        "unverified_creator_actions": 24,
+        "verified_creators": [
+            "starship",
+            "actions",
+            "netlify",
+            "google-github-actions",
+            "EmbarkStudios",
+            "codecov"
+        ],
+        "unverified_creators": [
+            "dprint",
+            "xalvarez",
+            "dtolnay",
+            "taiki-e",
+            "softprops",
+            "mislav",
+            "crate-ci",
+            "Swatinem",
+            "giraffate",
+            "reviewdog"
+        ]
+    },
+    "stb": {
+        "total_actions": 3,
+        "actions_with_commit_hash": 0,
+        "self_hosted_runners": 0,
+        "unverified_creator_actions": 0,
+        "verified_creators": [
+            "google",
+            "actions"
+        ],
+        "unverified_creators": []
+    },
+    "storybook": {
+        "total_actions": 39,
+        "actions_with_commit_hash": 4,
+        "self_hosted_runners": 0,
+        "unverified_creator_actions": 9,
+        "verified_creators": [
+            "actions",
+            "notiz-dev",
+            "ossf",
+            "github"
+        ],
+        "unverified_creators": [
+            "prince-chrismc",
+            "mcky",
+            "gaurav-nelson",
+            "danger",
+            "Ilshidur"
+        ]
+    },
+    "strapi": {
+        "total_actions": 115,
+        "actions_with_commit_hash": 0,
+        "self_hosted_runners": 0,
+        "unverified_creator_actions": 58,
+        "verified_creators": [
+            "actions",
+            "preactjs",
+            "nrwl"
+        ],
+        "unverified_creators": [
+            ".",
+            "tspascoal",
+            "thollander",
+            "peaceiris",
+            "actions-cool",
+            "dorny"
+        ]
+    },
+    "streamlit": {
+        "total_actions": 107,
+        "actions_with_commit_hash": 6,
+        "self_hosted_runners": 3,
+        "unverified_creator_actions": 41,
+        "verified_creators": [
+            "actions",
+            "github",
+            "pypa"
+        ],
+        "unverified_creators": [
+            ".",
+            "aidan-mundy",
+            "mheap"
+        ]
+    },
+    "styled-components": {
+        "total_actions": 10,
+        "actions_with_commit_hash": 0,
+        "self_hosted_runners": 0,
+        "unverified_creator_actions": 0,
+        "verified_creators": [
+            "actions",
+            "github"
+        ],
+        "unverified_creators": []
+    },
+    "superset": {
+        "total_actions": 139,
+        "actions_with_commit_hash": 0,
+        "self_hosted_runners": 0,
+        "unverified_creator_actions": 46,
+        "verified_creators": [
+            "actions",
+            "github",
+            "docker",
+            "aws-actions",
+            "azure"
+        ],
+        "unverified_creators": [
+            "."
+        ]
+    },
+    "svelte": {
+        "total_actions": 14,
+        "actions_with_commit_hash": 1,
+        "self_hosted_runners": 0,
+        "unverified_creator_actions": 2,
+        "verified_creators": [
+            "actions",
+            "pnpm"
+        ],
+        "unverified_creators": [
+            "tibdex",
+            "changesets"
+        ]
+    },
+    "swagger-ui": {
+        "total_actions": 29,
+        "actions_with_commit_hash": 0,
+        "self_hosted_runners": 0,
+        "unverified_creator_actions": 3,
+        "verified_creators": [
+            "actions",
+            "github",
+            "dependabot",
+            "docker",
+            "aquasecurity"
+        ],
+        "unverified_creators": [
+            "mshick",
+            "cycjimmy"
+        ]
+    },
+    "swc": {
+        "total_actions": 96,
+        "actions_with_commit_hash": 0,
+        "self_hosted_runners": 3,
+        "unverified_creator_actions": 23,
+        "verified_creators": [
+            "actions",
+            "denoland",
+            "docker"
+        ],
+        "unverified_creators": [
+            "styfle",
+            "actions-rs",
+            "baptiste0928",
+            "dtolnay",
+            "dessant",
+            "balazsorban44",
+            "goto-bus-stop",
+            "addnab"
+        ]
+    },
+    "swiper": {
+        "total_actions": 8,
+        "actions_with_commit_hash": 0,
+        "self_hosted_runners": 0,
+        "unverified_creator_actions": 2,
+        "verified_creators": [
+            "actions"
+        ],
+        "unverified_creators": [
+            "actions-cool"
+        ]
+    },
+    "symfony": {
+        "total_actions": 17,
+        "actions_with_commit_hash": 4,
+        "self_hosted_runners": 5,
+        "unverified_creator_actions": 6,
+        "verified_creators": [
+            "actions",
+            "ossf",
+            "github"
+        ],
+        "unverified_creators": [
+            "shivammathur",
+            "docker:"
+        ]
+    },
+    "syncthing": {
+        "total_actions": 61,
+        "actions_with_commit_hash": 0,
+        "self_hosted_runners": 0,
+        "unverified_creator_actions": 3,
+        "verified_creators": [
+            "actions",
+            "docker",
+            "ruby"
+        ],
+        "unverified_creators": [
+            "docker:"
+        ]
+    },
+    "tabler": {
+        "total_actions": 18,
+        "actions_with_commit_hash": 0,
+        "self_hosted_runners": 0,
+        "unverified_creator_actions": 2,
+        "verified_creators": [
+            "actions",
+            "pnpm",
+            "ruby",
+            "calibreapp"
+        ],
+        "unverified_creators": [
+            "xalvarez",
+            "changesets"
+        ]
+    },
+    "taichi": {
+        "total_actions": 69,
+        "actions_with_commit_hash": 0,
+        "self_hosted_runners": 6,
+        "unverified_creator_actions": 10,
+        "verified_creators": [
+            "actions",
+            "slackapi"
+        ],
+        "unverified_creators": [
+            "shallwefootball",
+            "peter-evans",
+            "softprops"
+        ]
+    },
+    "tailwindcss": {
+        "total_actions": 19,
+        "actions_with_commit_hash": 0,
+        "self_hosted_runners": 0,
+        "unverified_creator_actions": 0,
+        "verified_creators": [
+            "actions",
+            "pnpm"
+        ],
+        "unverified_creators": []
+    },
+    "taro": {
+        "total_actions": 44,
+        "actions_with_commit_hash": 0,
+        "self_hosted_runners": 2,
+        "unverified_creator_actions": 9,
+        "verified_creators": [
+            "actions",
+            "pnpm",
+            "codecov"
+        ],
+        "unverified_creators": [
+            "golfzaptw",
+            "dtolnay",
+            "addnab",
+            "jhutchings1",
+            "andymckay",
+            "azu",
+            "peter-evans"
+        ]
+    },
+    "Tasmota": {
+        "total_actions": 55,
+        "actions_with_commit_hash": 0,
+        "self_hosted_runners": 0,
+        "unverified_creator_actions": 24,
+        "verified_creators": [
+            "actions"
+        ],
+        "unverified_creators": [
+            "jason2866",
+            "Jason2866",
+            "stefanzweifel"
+        ]
+    },
+    "tdesktop": {
+        "total_actions": 29,
+        "actions_with_commit_hash": 2,
+        "self_hosted_runners": 0,
+        "unverified_creator_actions": 12,
+        "verified_creators": [
+            "actions"
+        ],
+        "unverified_creators": [
+            "desktop-app",
+            "jlumbroso",
+            "dessant",
+            "lee-dohm",
+            "ilammy",
+            "telegramdesktop"
+        ]
+    },
+    "tensorflow": {
+        "total_actions": 42,
+        "actions_with_commit_hash": 42,
+        "self_hosted_runners": 4,
+        "unverified_creator_actions": 6,
+        "verified_creators": [
+            "actions",
+            "ossf",
+            "github",
+            "docker"
+        ],
+        "unverified_creators": [
+            "citation-file-format",
+            "trilom",
+            "peter-evans",
+            "mshick",
+            "zofrex"
+        ]
+    },
+    "terminal": {
+        "total_actions": 6,
+        "actions_with_commit_hash": 0,
+        "self_hosted_runners": 0,
+        "unverified_creator_actions": 1,
+        "verified_creators": [
+            "actions",
+            "check-spelling"
+        ],
+        "unverified_creators": [
+            "craigloewen-msft"
+        ]
+    },
+    "terminus": {
+        "total_actions": 27,
+        "actions_with_commit_hash": 0,
+        "self_hosted_runners": 0,
+        "unverified_creator_actions": 3,
+        "verified_creators": [
+            "actions",
+            "github"
+        ],
+        "unverified_creators": [
+            "Eugeny",
+            "FirebaseExtended",
+            "marvinpinto"
+        ]
+    },
+    "terraform": {
+        "total_actions": 50,
+        "actions_with_commit_hash": 38,
+        "self_hosted_runners": 1,
+        "unverified_creator_actions": 9,
+        "verified_creators": [
+            "actions",
+            "hashicorp",
+            "docker"
+        ],
+        "unverified_creators": [
+            ".",
+            "actions-ecosystem",
+            "dessant"
+        ]
+    },
+    "tesseract": {
+        "total_actions": 25,
+        "actions_with_commit_hash": 0,
+        "self_hosted_runners": 6,
+        "unverified_creator_actions": 3,
+        "verified_creators": [
+            "actions",
+            "google",
+            "github",
+            "msys2"
+        ],
+        "unverified_creators": [
+            "ilammy",
+            "egorpugin",
+            "mikepenz"
+        ]
+    },
+    "testify": {
+        "total_actions": 6,
+        "actions_with_commit_hash": 0,
+        "self_hosted_runners": 0,
+        "unverified_creator_actions": 1,
+        "verified_creators": [
+            "actions"
+        ],
+        "unverified_creators": [
+            "softprops"
+        ]
+    },
+    "three.js": {
+        "total_actions": 23,
+        "actions_with_commit_hash": 23,
+        "self_hosted_runners": 0,
+        "unverified_creator_actions": 2,
+        "verified_creators": [
+            "actions",
+            "github"
+        ],
+        "unverified_creators": [
+            "peter-evans"
+        ]
+    },
+    "tidb": {
+        "total_actions": 8,
+        "actions_with_commit_hash": 0,
+        "self_hosted_runners": 0,
+        "unverified_creator_actions": 1,
+        "verified_creators": [
+            "actions"
+        ],
+        "unverified_creators": [
+            "mxschmitt"
+        ]
+    },
+    "tldr": {
+        "total_actions": 8,
+        "actions_with_commit_hash": 0,
+        "self_hosted_runners": 0,
+        "unverified_creator_actions": 1,
+        "verified_creators": [
+            "actions",
+            "tj-actions",
+            "tldr-pages"
+        ],
+        "unverified_creators": [
+            "codespell-project"
+        ]
+    },
+    "tmux": {
+        "total_actions": 1,
+        "actions_with_commit_hash": 0,
+        "self_hosted_runners": 0,
+        "unverified_creator_actions": 1,
+        "verified_creators": [],
+        "unverified_creators": [
+            "dessant"
+        ]
+    },
+    "tokio": {
+        "total_actions": 147,
+        "actions_with_commit_hash": 0,
+        "self_hosted_runners": 0,
+        "unverified_creator_actions": 102,
+        "verified_creators": [
+            "actions"
+        ],
+        "unverified_creators": [
+            "rustsec",
+            "dtolnay",
+            "taiki-e",
+            "Swatinem",
+            "obi1kenobi"
+        ]
+    },
+    "tools": {
+        "total_actions": 113,
+        "actions_with_commit_hash": 0,
+        "self_hosted_runners": 0,
+        "unverified_creator_actions": 42,
+        "verified_creators": [
+            "actions",
+            "docker",
+            "pnpm"
+        ],
+        "unverified_creators": [
+            "moonrepo",
+            "peter-evans",
+            "kkak10",
+            "jetli",
+            "Swatinem",
+            "EndBug",
+            "softprops"
+        ]
+    },
+    "tornado": {
+        "total_actions": 18,
+        "actions_with_commit_hash": 0,
+        "self_hosted_runners": 0,
+        "unverified_creator_actions": 0,
+        "verified_creators": [
+            "actions",
+            "docker",
+            "pypa"
+        ],
+        "unverified_creators": []
+    },
+    "tqdm": {
+        "total_actions": 30,
+        "actions_with_commit_hash": 0,
+        "self_hosted_runners": 1,
+        "unverified_creator_actions": 7,
+        "verified_creators": [
+            "actions"
+        ],
+        "unverified_creators": [
+            "casperdcl",
+            "reviewdog",
+            "snapcore",
+            "elgohr"
+        ]
+    },
+    "traefik": {
+        "total_actions": 31,
+        "actions_with_commit_hash": 0,
+        "self_hosted_runners": 0,
+        "unverified_creator_actions": 0,
+        "verified_creators": [
+            "actions",
+            "github",
+            "docker",
+            "hashicorp-forge"
+        ],
+        "unverified_creators": []
+    },
+    "transformers": {
+        "total_actions": 127,
+        "actions_with_commit_hash": 0,
+        "self_hosted_runners": 9,
+        "unverified_creator_actions": 3,
+        "verified_creators": [
+            "actions",
+            "docker",
+            "tj-actions"
+        ],
+        "unverified_creators": [
+            "conda-incubator",
+            "geekyeggo"
+        ]
+    },
+    "trilium": {
+        "total_actions": 11,
+        "actions_with_commit_hash": 0,
+        "self_hosted_runners": 0,
+        "unverified_creator_actions": 0,
+        "verified_creators": [
+            "actions",
+            "github",
+            "docker"
+        ],
+        "unverified_creators": []
+    },
+    "TypeScript": {
+        "total_actions": 65,
+        "actions_with_commit_hash": 61,
+        "self_hosted_runners": 0,
+        "unverified_creator_actions": 0,
+        "verified_creators": [
+            "actions",
+            "github",
+            "microsoft",
+            "ossf"
+        ],
+        "unverified_creators": []
+    },
+    "uBlock": {
+        "total_actions": 6,
+        "actions_with_commit_hash": 0,
+        "self_hosted_runners": 0,
+        "unverified_creator_actions": 0,
+        "verified_creators": [
+            "actions"
+        ],
+        "unverified_creators": []
+    },
+    "underscore": {
+        "total_actions": 4,
+        "actions_with_commit_hash": 0,
+        "self_hosted_runners": 0,
+        "unverified_creator_actions": 0,
+        "verified_creators": [
+            "actions",
+            "github"
+        ],
+        "unverified_creators": []
+    },
+    "uni-app": {
+        "total_actions": 8,
+        "actions_with_commit_hash": 0,
+        "self_hosted_runners": 0,
+        "unverified_creator_actions": 2,
+        "verified_creators": [
+            "actions",
+            "pnpm"
+        ],
+        "unverified_creators": [
+            "cypress-io",
+            "fxy060608"
+        ]
+    },
+    "uppy": {
+        "total_actions": 64,
+        "actions_with_commit_hash": 10,
+        "self_hosted_runners": 0,
+        "unverified_creator_actions": 2,
+        "verified_creators": [
+            "actions",
+            "docker",
+            "supercharge"
+        ],
+        "unverified_creators": [
+            "akhileshns",
+            "marocchino"
+        ]
+    },
+    "v": {
+        "total_actions": 83,
+        "actions_with_commit_hash": 0,
+        "self_hosted_runners": 2,
+        "unverified_creator_actions": 6,
+        "verified_creators": [
+            "actions",
+            "msys2"
+        ],
+        "unverified_creators": [
+            "julien-deramond",
+            "winterjung",
+            "ncipollo",
+            "leahlundqvist",
+            "creyD"
+        ]
+    },
+    "v2ray-core": {
+        "total_actions": 17,
+        "actions_with_commit_hash": 0,
+        "self_hosted_runners": 0,
+        "unverified_creator_actions": 0,
+        "verified_creators": [
+            "actions",
+            "github",
+            "codecov",
+            "golangci"
+        ],
+        "unverified_creators": []
+    },
+    "vagrant": {
+        "total_actions": 20,
+        "actions_with_commit_hash": 20,
+        "self_hosted_runners": 0,
+        "unverified_creator_actions": 1,
+        "verified_creators": [
+            "actions",
+            "ruby"
+        ],
+        "unverified_creators": [
+            "dessant"
+        ]
+    },
+    "validator.js": {
+        "total_actions": 9,
+        "actions_with_commit_hash": 0,
+        "self_hosted_runners": 0,
+        "unverified_creator_actions": 0,
+        "verified_creators": [
+            "actions",
+            "codecov",
+            "github"
+        ],
+        "unverified_creators": []
+    },
+    "vant": {
+        "total_actions": 25,
+        "actions_with_commit_hash": 0,
+        "self_hosted_runners": 0,
+        "unverified_creator_actions": 9,
+        "verified_creators": [
+            "actions",
+            "github",
+            "wearerequired",
+            "codecov"
+        ],
+        "unverified_creators": [
+            "JamesIves",
+            "actions-cool",
+            "ncipollo"
+        ]
+    },
+    "vapor": {
+        "total_actions": 6,
+        "actions_with_commit_hash": 0,
+        "self_hosted_runners": 0,
+        "unverified_creator_actions": 2,
+        "verified_creators": [
+            "actions"
+        ],
+        "unverified_creators": [
+            "JamesIves",
+            "peter-evans"
+        ]
+    },
+    "vault": {
+        "total_actions": 130,
+        "actions_with_commit_hash": 89,
+        "self_hosted_runners": 9,
+        "unverified_creator_actions": 33,
+        "verified_creators": [
+            "actions",
+            "hashicorp",
+            "slackapi",
+            "test-summary",
+            "github",
+            "aws-actions"
+        ],
+        "unverified_creators": [
+            "docker:",
+            ".",
+            "browser-actions",
+            "dorny",
+            "actions-ecosystem"
+        ]
+    },
+    "vcpkg": {
+        "total_actions": 6,
+        "actions_with_commit_hash": 0,
+        "self_hosted_runners": 0,
+        "unverified_creator_actions": 0,
+        "verified_creators": [
+            "actions"
+        ],
+        "unverified_creators": []
+    },
+    "video.js": {
+        "total_actions": 13,
+        "actions_with_commit_hash": 0,
+        "self_hosted_runners": 0,
+        "unverified_creator_actions": 4,
+        "verified_creators": [
+            "actions",
+            "codecov",
+            "aws-actions"
+        ],
+        "unverified_creators": [
+            "fkirc",
+            "coactions",
+            "dessant",
+            "softprops"
+        ]
+    },
+    "vim": {
+        "total_actions": 14,
+        "actions_with_commit_hash": 0,
+        "self_hosted_runners": 0,
+        "unverified_creator_actions": 1,
+        "verified_creators": [
+            "actions",
+            "codecov",
+            "msys2",
+            "github"
+        ],
+        "unverified_creators": [
+            "tecolicom"
+        ]
+    },
+    "viper": {
+        "total_actions": 18,
+        "actions_with_commit_hash": 18,
+        "self_hosted_runners": 0,
+        "unverified_creator_actions": 2,
+        "verified_creators": [
+            "actions",
+            "golangci",
+            "github"
+        ],
+        "unverified_creators": [
+            "mheap",
+            "cachix"
+        ]
+    },
+    "vite": {
+        "total_actions": 24,
+        "actions_with_commit_hash": 1,
+        "self_hosted_runners": 0,
+        "unverified_creator_actions": 9,
+        "verified_creators": [
+            "actions",
+            "tj-actions",
+            "pnpm"
+        ],
+        "unverified_creators": [
+            "tibdex",
+            "actions-cool",
+            "dessant",
+            "yyx990803",
+            "amannn"
+        ]
+    },
+    "vnpy": {
+        "total_actions": 2,
+        "actions_with_commit_hash": 0,
+        "self_hosted_runners": 0,
+        "unverified_creator_actions": 0,
+        "verified_creators": [
+            "actions"
+        ],
+        "unverified_creators": []
+    },
+    "vscode": {
+        "total_actions": 83,
+        "actions_with_commit_hash": 1,
+        "self_hosted_runners": 0,
+        "unverified_creator_actions": 29,
+        "verified_creators": [
+            "actions",
+            "azure"
+        ],
+        "unverified_creators": [
+            ".",
+            "octokit",
+            "trilom"
+        ]
+    },
+    "vue": {
+        "total_actions": 14,
+        "actions_with_commit_hash": 0,
+        "self_hosted_runners": 0,
+        "unverified_creator_actions": 1,
+        "verified_creators": [
+            "actions",
+            "pnpm"
+        ],
+        "unverified_creators": [
+            "yyx990803"
+        ]
+    },
+    "vue-next": {
+        "total_actions": 43,
+        "actions_with_commit_hash": 1,
+        "self_hosted_runners": 0,
+        "unverified_creator_actions": 8,
+        "verified_creators": [
+            "actions",
+            "pnpm",
+            "autofix-ci"
+        ],
+        "unverified_creators": [
+            "dessant",
+            "yyx990803",
+            "dawidd6",
+            "juliangruber",
+            "actions-cool"
+        ]
+    },
+    "vuepress": {
+        "total_actions": 3,
+        "actions_with_commit_hash": 0,
+        "self_hosted_runners": 0,
+        "unverified_creator_actions": 0,
+        "verified_creators": [
+            "actions"
+        ],
+        "unverified_creators": []
+    },
+    "vuetify": {
+        "total_actions": 41,
+        "actions_with_commit_hash": 0,
+        "self_hosted_runners": 0,
+        "unverified_creator_actions": 18,
+        "verified_creators": [
+            "actions",
+            "codecov",
+            "vuetifyjs",
+            "crowdin"
+        ],
+        "unverified_creators": [
+            "fkirc",
+            "."
+        ]
+    },
+    "vuex": {
+        "total_actions": 3,
+        "actions_with_commit_hash": 0,
+        "self_hosted_runners": 0,
+        "unverified_creator_actions": 1,
+        "verified_creators": [
+            "actions"
+        ],
+        "unverified_creators": [
+            "bahmutov"
+        ]
+    },
+    "webpack": {
+        "total_actions": 18,
+        "actions_with_commit_hash": 0,
+        "self_hosted_runners": 0,
+        "unverified_creator_actions": 0,
+        "verified_creators": [
+            "actions",
+            "codecov"
+        ],
+        "unverified_creators": []
+    },
+    "webtorrent": {
+        "total_actions": 10,
+        "actions_with_commit_hash": 0,
+        "self_hosted_runners": 0,
+        "unverified_creator_actions": 1,
+        "verified_creators": [
+            "actions",
+            "github"
+        ],
+        "unverified_creators": [
+            "dessant"
+        ]
+    },
+    "wiki": {
+        "total_actions": 30,
+        "actions_with_commit_hash": 0,
+        "self_hosted_runners": 0,
+        "unverified_creator_actions": 3,
+        "verified_creators": [
+            "actions",
+            "docker",
+            "Requarks",
+            "slackapi"
+        ],
+        "unverified_creators": [
+            "ncipollo",
+            "appleboy",
+            "sebastianpopp"
+        ]
+    },
+    "xgboost": {
+        "total_actions": 49,
+        "actions_with_commit_hash": 39,
+        "self_hosted_runners": 2,
+        "unverified_creator_actions": 15,
+        "verified_creators": [
+            "actions",
+            "docker",
+            "ossf",
+            "github"
+        ],
+        "unverified_creators": [
+            "mamba-org",
+            "conda-incubator",
+            "r-lib",
+            "dorny",
+            "peter-evans"
+        ]
+    },
+    "xstate": {
+        "total_actions": 10,
+        "actions_with_commit_hash": 0,
+        "self_hosted_runners": 0,
+        "unverified_creator_actions": 6,
+        "verified_creators": [
+            "actions"
+        ],
+        "unverified_creators": [
+            "JamesIves",
+            ".",
+            "changesets"
+        ]
+    },
+    "XX-Net": {
+        "total_actions": 6,
+        "actions_with_commit_hash": 0,
+        "self_hosted_runners": 0,
+        "unverified_creator_actions": 0,
+        "verified_creators": [
+            "actions"
+        ],
+        "unverified_creators": []
+    },
+    "xxl-job": {
+        "total_actions": 2,
+        "actions_with_commit_hash": 0,
+        "self_hosted_runners": 0,
+        "unverified_creator_actions": 0,
+        "verified_creators": [
+            "actions"
+        ],
+        "unverified_creators": []
+    },
+    "yew": {
+        "total_actions": 105,
+        "actions_with_commit_hash": 0,
+        "self_hosted_runners": 0,
+        "unverified_creator_actions": 57,
+        "verified_creators": [
+            "actions",
+            "Legit-Labs"
+        ],
+        "unverified_creators": [
+            "JamesSingleton",
+            "hmarr",
+            "dtolnay",
+            "Swatinem",
+            "jetli",
+            "browser-actions",
+            "nanasess",
+            "mathiasvr",
+            "benchmark-action",
+            "dawidd6",
+            "siku2",
+            "oleksiyrudenko",
+            "baptiste0928",
+            "WyriHaximus",
+            "peterjgrainger",
+            "softprops"
+        ]
+    },
+    "yolov5": {
+        "total_actions": 22,
+        "actions_with_commit_hash": 0,
+        "self_hosted_runners": 0,
+        "unverified_creator_actions": 2,
+        "verified_creators": [
+            "actions",
+            "slackapi",
+            "github",
+            "docker",
+            "ultralytics"
+        ],
+        "unverified_creators": [
+            "nick-invision"
+        ]
+    },
+    "you-get": {
+        "total_actions": 2,
+        "actions_with_commit_hash": 0,
+        "self_hosted_runners": 0,
+        "unverified_creator_actions": 0,
+        "verified_creators": [
+            "actions"
+        ],
+        "unverified_creators": []
+    },
+    "YouCompleteMe": {
+        "total_actions": 9,
+        "actions_with_commit_hash": 0,
+        "self_hosted_runners": 0,
+        "unverified_creator_actions": 2,
+        "verified_creators": [
+            "actions",
+            "codecov"
+        ],
+        "unverified_creators": [
+            "dessant",
+            "peter-evans"
+        ]
+    },
+    "youtube-dl": {
+        "total_actions": 8,
+        "actions_with_commit_hash": 0,
+        "self_hosted_runners": 0,
+        "unverified_creator_actions": 1,
+        "verified_creators": [
+            "actions"
+        ],
+        "unverified_creators": [
+            "ytdl-org"
+        ]
+    },
+    "yup": {
+        "total_actions": 2,
+        "actions_with_commit_hash": 0,
+        "self_hosted_runners": 0,
+        "unverified_creator_actions": 0,
+        "verified_creators": [
+            "actions"
+        ],
+        "unverified_creators": []
+    },
+    "zig": {
+        "total_actions": 10,
+        "actions_with_commit_hash": 0,
+        "self_hosted_runners": 1,
+        "unverified_creator_actions": 0,
+        "verified_creators": [
+            "actions"
+        ],
+        "unverified_creators": []
+    },
+    "zstd": {
+        "total_actions": 88,
+        "actions_with_commit_hash": 78,
+        "self_hosted_runners": 0,
+        "unverified_creator_actions": 2,
+        "verified_creators": [
+            "actions",
+            "msys2",
+            "google",
+            "microsoft",
+            "ossf",
+            "github"
+        ],
+        "unverified_creators": [
+            "cygwin",
+            "skx"
+        ]
     }
 }
